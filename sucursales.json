@@ -1,0 +1,7002 @@
+[
+  {
+    "sucursal_id":1,
+    "sucursal":"Sucursal 0001",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0001",
+    "empleados":58
+  },
+  {
+    "sucursal_id":2,
+    "sucursal":"Sucursal 0002",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0002",
+    "empleados":21
+  },
+  {
+    "sucursal_id":3,
+    "sucursal":"Sucursal 0003",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0003",
+    "empleados":43
+  },
+  {
+    "sucursal_id":4,
+    "sucursal":"Sucursal 0004",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0004",
+    "empleados":42
+  },
+  {
+    "sucursal_id":5,
+    "sucursal":"Sucursal 0005",
+    "ciudad":"García",
+    "gerente":"Gerente 0005",
+    "empleados":56
+  },
+  {
+    "sucursal_id":6,
+    "sucursal":"Sucursal 0006",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0006",
+    "empleados":33
+  },
+  {
+    "sucursal_id":7,
+    "sucursal":"Sucursal 0007",
+    "ciudad":"García",
+    "gerente":"Gerente 0007",
+    "empleados":44
+  },
+  {
+    "sucursal_id":8,
+    "sucursal":"Sucursal 0008",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0008",
+    "empleados":11
+  },
+  {
+    "sucursal_id":9,
+    "sucursal":"Sucursal 0009",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0009",
+    "empleados":12
+  },
+  {
+    "sucursal_id":10,
+    "sucursal":"Sucursal 0010",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0010",
+    "empleados":45
+  },
+  {
+    "sucursal_id":11,
+    "sucursal":"Sucursal 0011",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0011",
+    "empleados":37
+  },
+  {
+    "sucursal_id":12,
+    "sucursal":"Sucursal 0012",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0012",
+    "empleados":36
+  },
+  {
+    "sucursal_id":13,
+    "sucursal":"Sucursal 0013",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0013",
+    "empleados":39
+  },
+  {
+    "sucursal_id":14,
+    "sucursal":"Sucursal 0014",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0014",
+    "empleados":22
+  },
+  {
+    "sucursal_id":15,
+    "sucursal":"Sucursal 0015",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0015",
+    "empleados":55
+  },
+  {
+    "sucursal_id":16,
+    "sucursal":"Sucursal 0016",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0016",
+    "empleados":47
+  },
+  {
+    "sucursal_id":17,
+    "sucursal":"Sucursal 0017",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0017",
+    "empleados":20
+  },
+  {
+    "sucursal_id":18,
+    "sucursal":"Sucursal 0018",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0018",
+    "empleados":22
+  },
+  {
+    "sucursal_id":19,
+    "sucursal":"Sucursal 0019",
+    "ciudad":"García",
+    "gerente":"Gerente 0019",
+    "empleados":42
+  },
+  {
+    "sucursal_id":20,
+    "sucursal":"Sucursal 0020",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0020",
+    "empleados":29
+  },
+  {
+    "sucursal_id":21,
+    "sucursal":"Sucursal 0021",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0021",
+    "empleados":38
+  },
+  {
+    "sucursal_id":22,
+    "sucursal":"Sucursal 0022",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0022",
+    "empleados":8
+  },
+  {
+    "sucursal_id":23,
+    "sucursal":"Sucursal 0023",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0023",
+    "empleados":9
+  },
+  {
+    "sucursal_id":24,
+    "sucursal":"Sucursal 0024",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0024",
+    "empleados":57
+  },
+  {
+    "sucursal_id":25,
+    "sucursal":"Sucursal 0025",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0025",
+    "empleados":18
+  },
+  {
+    "sucursal_id":26,
+    "sucursal":"Sucursal 0026",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0026",
+    "empleados":5
+  },
+  {
+    "sucursal_id":27,
+    "sucursal":"Sucursal 0027",
+    "ciudad":"García",
+    "gerente":"Gerente 0027",
+    "empleados":26
+  },
+  {
+    "sucursal_id":28,
+    "sucursal":"Sucursal 0028",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0028",
+    "empleados":50
+  },
+  {
+    "sucursal_id":29,
+    "sucursal":"Sucursal 0029",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0029",
+    "empleados":25
+  },
+  {
+    "sucursal_id":30,
+    "sucursal":"Sucursal 0030",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0030",
+    "empleados":17
+  },
+  {
+    "sucursal_id":31,
+    "sucursal":"Sucursal 0031",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0031",
+    "empleados":58
+  },
+  {
+    "sucursal_id":32,
+    "sucursal":"Sucursal 0032",
+    "ciudad":"García",
+    "gerente":"Gerente 0032",
+    "empleados":52
+  },
+  {
+    "sucursal_id":33,
+    "sucursal":"Sucursal 0033",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0033",
+    "empleados":40
+  },
+  {
+    "sucursal_id":34,
+    "sucursal":"Sucursal 0034",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0034",
+    "empleados":33
+  },
+  {
+    "sucursal_id":35,
+    "sucursal":"Sucursal 0035",
+    "ciudad":"García",
+    "gerente":"Gerente 0035",
+    "empleados":42
+  },
+  {
+    "sucursal_id":36,
+    "sucursal":"Sucursal 0036",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0036",
+    "empleados":13
+  },
+  {
+    "sucursal_id":37,
+    "sucursal":"Sucursal 0037",
+    "ciudad":"García",
+    "gerente":"Gerente 0037",
+    "empleados":37
+  },
+  {
+    "sucursal_id":38,
+    "sucursal":"Sucursal 0038",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0038",
+    "empleados":26
+  },
+  {
+    "sucursal_id":39,
+    "sucursal":"Sucursal 0039",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0039",
+    "empleados":21
+  },
+  {
+    "sucursal_id":40,
+    "sucursal":"Sucursal 0040",
+    "ciudad":"García",
+    "gerente":"Gerente 0040",
+    "empleados":27
+  },
+  {
+    "sucursal_id":41,
+    "sucursal":"Sucursal 0041",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0041",
+    "empleados":40
+  },
+  {
+    "sucursal_id":42,
+    "sucursal":"Sucursal 0042",
+    "ciudad":"García",
+    "gerente":"Gerente 0042",
+    "empleados":10
+  },
+  {
+    "sucursal_id":43,
+    "sucursal":"Sucursal 0043",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0043",
+    "empleados":52
+  },
+  {
+    "sucursal_id":44,
+    "sucursal":"Sucursal 0044",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0044",
+    "empleados":43
+  },
+  {
+    "sucursal_id":45,
+    "sucursal":"Sucursal 0045",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0045",
+    "empleados":33
+  },
+  {
+    "sucursal_id":46,
+    "sucursal":"Sucursal 0046",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0046",
+    "empleados":31
+  },
+  {
+    "sucursal_id":47,
+    "sucursal":"Sucursal 0047",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0047",
+    "empleados":9
+  },
+  {
+    "sucursal_id":48,
+    "sucursal":"Sucursal 0048",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0048",
+    "empleados":13
+  },
+  {
+    "sucursal_id":49,
+    "sucursal":"Sucursal 0049",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0049",
+    "empleados":28
+  },
+  {
+    "sucursal_id":50,
+    "sucursal":"Sucursal 0050",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0050",
+    "empleados":23
+  },
+  {
+    "sucursal_id":51,
+    "sucursal":"Sucursal 0051",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0051",
+    "empleados":37
+  },
+  {
+    "sucursal_id":52,
+    "sucursal":"Sucursal 0052",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0052",
+    "empleados":34
+  },
+  {
+    "sucursal_id":53,
+    "sucursal":"Sucursal 0053",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0053",
+    "empleados":44
+  },
+  {
+    "sucursal_id":54,
+    "sucursal":"Sucursal 0054",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0054",
+    "empleados":56
+  },
+  {
+    "sucursal_id":55,
+    "sucursal":"Sucursal 0055",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0055",
+    "empleados":59
+  },
+  {
+    "sucursal_id":56,
+    "sucursal":"Sucursal 0056",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0056",
+    "empleados":8
+  },
+  {
+    "sucursal_id":57,
+    "sucursal":"Sucursal 0057",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0057",
+    "empleados":59
+  },
+  {
+    "sucursal_id":58,
+    "sucursal":"Sucursal 0058",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0058",
+    "empleados":36
+  },
+  {
+    "sucursal_id":59,
+    "sucursal":"Sucursal 0059",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0059",
+    "empleados":53
+  },
+  {
+    "sucursal_id":60,
+    "sucursal":"Sucursal 0060",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0060",
+    "empleados":5
+  },
+  {
+    "sucursal_id":61,
+    "sucursal":"Sucursal 0061",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0061",
+    "empleados":38
+  },
+  {
+    "sucursal_id":62,
+    "sucursal":"Sucursal 0062",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0062",
+    "empleados":25
+  },
+  {
+    "sucursal_id":63,
+    "sucursal":"Sucursal 0063",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0063",
+    "empleados":35
+  },
+  {
+    "sucursal_id":64,
+    "sucursal":"Sucursal 0064",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0064",
+    "empleados":18
+  },
+  {
+    "sucursal_id":65,
+    "sucursal":"Sucursal 0065",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0065",
+    "empleados":30
+  },
+  {
+    "sucursal_id":66,
+    "sucursal":"Sucursal 0066",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0066",
+    "empleados":26
+  },
+  {
+    "sucursal_id":67,
+    "sucursal":"Sucursal 0067",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0067",
+    "empleados":38
+  },
+  {
+    "sucursal_id":68,
+    "sucursal":"Sucursal 0068",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0068",
+    "empleados":37
+  },
+  {
+    "sucursal_id":69,
+    "sucursal":"Sucursal 0069",
+    "ciudad":"García",
+    "gerente":"Gerente 0069",
+    "empleados":17
+  },
+  {
+    "sucursal_id":70,
+    "sucursal":"Sucursal 0070",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0070",
+    "empleados":36
+  },
+  {
+    "sucursal_id":71,
+    "sucursal":"Sucursal 0071",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0071",
+    "empleados":59
+  },
+  {
+    "sucursal_id":72,
+    "sucursal":"Sucursal 0072",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0072",
+    "empleados":12
+  },
+  {
+    "sucursal_id":73,
+    "sucursal":"Sucursal 0073",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0073",
+    "empleados":26
+  },
+  {
+    "sucursal_id":74,
+    "sucursal":"Sucursal 0074",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0074",
+    "empleados":45
+  },
+  {
+    "sucursal_id":75,
+    "sucursal":"Sucursal 0075",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0075",
+    "empleados":24
+  },
+  {
+    "sucursal_id":76,
+    "sucursal":"Sucursal 0076",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0076",
+    "empleados":25
+  },
+  {
+    "sucursal_id":77,
+    "sucursal":"Sucursal 0077",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0077",
+    "empleados":38
+  },
+  {
+    "sucursal_id":78,
+    "sucursal":"Sucursal 0078",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0078",
+    "empleados":53
+  },
+  {
+    "sucursal_id":79,
+    "sucursal":"Sucursal 0079",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0079",
+    "empleados":34
+  },
+  {
+    "sucursal_id":80,
+    "sucursal":"Sucursal 0080",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0080",
+    "empleados":10
+  },
+  {
+    "sucursal_id":81,
+    "sucursal":"Sucursal 0081",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0081",
+    "empleados":39
+  },
+  {
+    "sucursal_id":82,
+    "sucursal":"Sucursal 0082",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0082",
+    "empleados":31
+  },
+  {
+    "sucursal_id":83,
+    "sucursal":"Sucursal 0083",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0083",
+    "empleados":24
+  },
+  {
+    "sucursal_id":84,
+    "sucursal":"Sucursal 0084",
+    "ciudad":"García",
+    "gerente":"Gerente 0084",
+    "empleados":53
+  },
+  {
+    "sucursal_id":85,
+    "sucursal":"Sucursal 0085",
+    "ciudad":"García",
+    "gerente":"Gerente 0085",
+    "empleados":42
+  },
+  {
+    "sucursal_id":86,
+    "sucursal":"Sucursal 0086",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0086",
+    "empleados":44
+  },
+  {
+    "sucursal_id":87,
+    "sucursal":"Sucursal 0087",
+    "ciudad":"García",
+    "gerente":"Gerente 0087",
+    "empleados":18
+  },
+  {
+    "sucursal_id":88,
+    "sucursal":"Sucursal 0088",
+    "ciudad":"García",
+    "gerente":"Gerente 0088",
+    "empleados":14
+  },
+  {
+    "sucursal_id":89,
+    "sucursal":"Sucursal 0089",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0089",
+    "empleados":56
+  },
+  {
+    "sucursal_id":90,
+    "sucursal":"Sucursal 0090",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0090",
+    "empleados":46
+  },
+  {
+    "sucursal_id":91,
+    "sucursal":"Sucursal 0091",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0091",
+    "empleados":19
+  },
+  {
+    "sucursal_id":92,
+    "sucursal":"Sucursal 0092",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0092",
+    "empleados":44
+  },
+  {
+    "sucursal_id":93,
+    "sucursal":"Sucursal 0093",
+    "ciudad":"García",
+    "gerente":"Gerente 0093",
+    "empleados":47
+  },
+  {
+    "sucursal_id":94,
+    "sucursal":"Sucursal 0094",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0094",
+    "empleados":52
+  },
+  {
+    "sucursal_id":95,
+    "sucursal":"Sucursal 0095",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0095",
+    "empleados":7
+  },
+  {
+    "sucursal_id":96,
+    "sucursal":"Sucursal 0096",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0096",
+    "empleados":19
+  },
+  {
+    "sucursal_id":97,
+    "sucursal":"Sucursal 0097",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0097",
+    "empleados":49
+  },
+  {
+    "sucursal_id":98,
+    "sucursal":"Sucursal 0098",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0098",
+    "empleados":35
+  },
+  {
+    "sucursal_id":99,
+    "sucursal":"Sucursal 0099",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0099",
+    "empleados":15
+  },
+  {
+    "sucursal_id":100,
+    "sucursal":"Sucursal 0100",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0100",
+    "empleados":50
+  },
+  {
+    "sucursal_id":101,
+    "sucursal":"Sucursal 0101",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0101",
+    "empleados":43
+  },
+  {
+    "sucursal_id":102,
+    "sucursal":"Sucursal 0102",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0102",
+    "empleados":23
+  },
+  {
+    "sucursal_id":103,
+    "sucursal":"Sucursal 0103",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0103",
+    "empleados":19
+  },
+  {
+    "sucursal_id":104,
+    "sucursal":"Sucursal 0104",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0104",
+    "empleados":42
+  },
+  {
+    "sucursal_id":105,
+    "sucursal":"Sucursal 0105",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0105",
+    "empleados":24
+  },
+  {
+    "sucursal_id":106,
+    "sucursal":"Sucursal 0106",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0106",
+    "empleados":26
+  },
+  {
+    "sucursal_id":107,
+    "sucursal":"Sucursal 0107",
+    "ciudad":"García",
+    "gerente":"Gerente 0107",
+    "empleados":11
+  },
+  {
+    "sucursal_id":108,
+    "sucursal":"Sucursal 0108",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0108",
+    "empleados":18
+  },
+  {
+    "sucursal_id":109,
+    "sucursal":"Sucursal 0109",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0109",
+    "empleados":58
+  },
+  {
+    "sucursal_id":110,
+    "sucursal":"Sucursal 0110",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0110",
+    "empleados":8
+  },
+  {
+    "sucursal_id":111,
+    "sucursal":"Sucursal 0111",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0111",
+    "empleados":13
+  },
+  {
+    "sucursal_id":112,
+    "sucursal":"Sucursal 0112",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0112",
+    "empleados":43
+  },
+  {
+    "sucursal_id":113,
+    "sucursal":"Sucursal 0113",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0113",
+    "empleados":29
+  },
+  {
+    "sucursal_id":114,
+    "sucursal":"Sucursal 0114",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0114",
+    "empleados":51
+  },
+  {
+    "sucursal_id":115,
+    "sucursal":"Sucursal 0115",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0115",
+    "empleados":39
+  },
+  {
+    "sucursal_id":116,
+    "sucursal":"Sucursal 0116",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0116",
+    "empleados":41
+  },
+  {
+    "sucursal_id":117,
+    "sucursal":"Sucursal 0117",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0117",
+    "empleados":53
+  },
+  {
+    "sucursal_id":118,
+    "sucursal":"Sucursal 0118",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0118",
+    "empleados":31
+  },
+  {
+    "sucursal_id":119,
+    "sucursal":"Sucursal 0119",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0119",
+    "empleados":32
+  },
+  {
+    "sucursal_id":120,
+    "sucursal":"Sucursal 0120",
+    "ciudad":"García",
+    "gerente":"Gerente 0120",
+    "empleados":28
+  },
+  {
+    "sucursal_id":121,
+    "sucursal":"Sucursal 0121",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0121",
+    "empleados":37
+  },
+  {
+    "sucursal_id":122,
+    "sucursal":"Sucursal 0122",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0122",
+    "empleados":37
+  },
+  {
+    "sucursal_id":123,
+    "sucursal":"Sucursal 0123",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0123",
+    "empleados":20
+  },
+  {
+    "sucursal_id":124,
+    "sucursal":"Sucursal 0124",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0124",
+    "empleados":27
+  },
+  {
+    "sucursal_id":125,
+    "sucursal":"Sucursal 0125",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0125",
+    "empleados":50
+  },
+  {
+    "sucursal_id":126,
+    "sucursal":"Sucursal 0126",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0126",
+    "empleados":15
+  },
+  {
+    "sucursal_id":127,
+    "sucursal":"Sucursal 0127",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0127",
+    "empleados":50
+  },
+  {
+    "sucursal_id":128,
+    "sucursal":"Sucursal 0128",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0128",
+    "empleados":44
+  },
+  {
+    "sucursal_id":129,
+    "sucursal":"Sucursal 0129",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0129",
+    "empleados":23
+  },
+  {
+    "sucursal_id":130,
+    "sucursal":"Sucursal 0130",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0130",
+    "empleados":38
+  },
+  {
+    "sucursal_id":131,
+    "sucursal":"Sucursal 0131",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0131",
+    "empleados":27
+  },
+  {
+    "sucursal_id":132,
+    "sucursal":"Sucursal 0132",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0132",
+    "empleados":14
+  },
+  {
+    "sucursal_id":133,
+    "sucursal":"Sucursal 0133",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0133",
+    "empleados":41
+  },
+  {
+    "sucursal_id":134,
+    "sucursal":"Sucursal 0134",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0134",
+    "empleados":51
+  },
+  {
+    "sucursal_id":135,
+    "sucursal":"Sucursal 0135",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0135",
+    "empleados":5
+  },
+  {
+    "sucursal_id":136,
+    "sucursal":"Sucursal 0136",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0136",
+    "empleados":6
+  },
+  {
+    "sucursal_id":137,
+    "sucursal":"Sucursal 0137",
+    "ciudad":"García",
+    "gerente":"Gerente 0137",
+    "empleados":55
+  },
+  {
+    "sucursal_id":138,
+    "sucursal":"Sucursal 0138",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0138",
+    "empleados":26
+  },
+  {
+    "sucursal_id":139,
+    "sucursal":"Sucursal 0139",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0139",
+    "empleados":21
+  },
+  {
+    "sucursal_id":140,
+    "sucursal":"Sucursal 0140",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0140",
+    "empleados":51
+  },
+  {
+    "sucursal_id":141,
+    "sucursal":"Sucursal 0141",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0141",
+    "empleados":28
+  },
+  {
+    "sucursal_id":142,
+    "sucursal":"Sucursal 0142",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0142",
+    "empleados":54
+  },
+  {
+    "sucursal_id":143,
+    "sucursal":"Sucursal 0143",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0143",
+    "empleados":25
+  },
+  {
+    "sucursal_id":144,
+    "sucursal":"Sucursal 0144",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0144",
+    "empleados":44
+  },
+  {
+    "sucursal_id":145,
+    "sucursal":"Sucursal 0145",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0145",
+    "empleados":33
+  },
+  {
+    "sucursal_id":146,
+    "sucursal":"Sucursal 0146",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0146",
+    "empleados":57
+  },
+  {
+    "sucursal_id":147,
+    "sucursal":"Sucursal 0147",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0147",
+    "empleados":18
+  },
+  {
+    "sucursal_id":148,
+    "sucursal":"Sucursal 0148",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0148",
+    "empleados":12
+  },
+  {
+    "sucursal_id":149,
+    "sucursal":"Sucursal 0149",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0149",
+    "empleados":34
+  },
+  {
+    "sucursal_id":150,
+    "sucursal":"Sucursal 0150",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0150",
+    "empleados":26
+  },
+  {
+    "sucursal_id":151,
+    "sucursal":"Sucursal 0151",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0151",
+    "empleados":27
+  },
+  {
+    "sucursal_id":152,
+    "sucursal":"Sucursal 0152",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0152",
+    "empleados":44
+  },
+  {
+    "sucursal_id":153,
+    "sucursal":"Sucursal 0153",
+    "ciudad":"García",
+    "gerente":"Gerente 0153",
+    "empleados":55
+  },
+  {
+    "sucursal_id":154,
+    "sucursal":"Sucursal 0154",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0154",
+    "empleados":17
+  },
+  {
+    "sucursal_id":155,
+    "sucursal":"Sucursal 0155",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0155",
+    "empleados":32
+  },
+  {
+    "sucursal_id":156,
+    "sucursal":"Sucursal 0156",
+    "ciudad":"García",
+    "gerente":"Gerente 0156",
+    "empleados":34
+  },
+  {
+    "sucursal_id":157,
+    "sucursal":"Sucursal 0157",
+    "ciudad":"García",
+    "gerente":"Gerente 0157",
+    "empleados":9
+  },
+  {
+    "sucursal_id":158,
+    "sucursal":"Sucursal 0158",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0158",
+    "empleados":14
+  },
+  {
+    "sucursal_id":159,
+    "sucursal":"Sucursal 0159",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0159",
+    "empleados":43
+  },
+  {
+    "sucursal_id":160,
+    "sucursal":"Sucursal 0160",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0160",
+    "empleados":13
+  },
+  {
+    "sucursal_id":161,
+    "sucursal":"Sucursal 0161",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0161",
+    "empleados":18
+  },
+  {
+    "sucursal_id":162,
+    "sucursal":"Sucursal 0162",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0162",
+    "empleados":42
+  },
+  {
+    "sucursal_id":163,
+    "sucursal":"Sucursal 0163",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0163",
+    "empleados":14
+  },
+  {
+    "sucursal_id":164,
+    "sucursal":"Sucursal 0164",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0164",
+    "empleados":37
+  },
+  {
+    "sucursal_id":165,
+    "sucursal":"Sucursal 0165",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0165",
+    "empleados":15
+  },
+  {
+    "sucursal_id":166,
+    "sucursal":"Sucursal 0166",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0166",
+    "empleados":44
+  },
+  {
+    "sucursal_id":167,
+    "sucursal":"Sucursal 0167",
+    "ciudad":"García",
+    "gerente":"Gerente 0167",
+    "empleados":10
+  },
+  {
+    "sucursal_id":168,
+    "sucursal":"Sucursal 0168",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0168",
+    "empleados":21
+  },
+  {
+    "sucursal_id":169,
+    "sucursal":"Sucursal 0169",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0169",
+    "empleados":40
+  },
+  {
+    "sucursal_id":170,
+    "sucursal":"Sucursal 0170",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0170",
+    "empleados":10
+  },
+  {
+    "sucursal_id":171,
+    "sucursal":"Sucursal 0171",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0171",
+    "empleados":51
+  },
+  {
+    "sucursal_id":172,
+    "sucursal":"Sucursal 0172",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0172",
+    "empleados":14
+  },
+  {
+    "sucursal_id":173,
+    "sucursal":"Sucursal 0173",
+    "ciudad":"García",
+    "gerente":"Gerente 0173",
+    "empleados":53
+  },
+  {
+    "sucursal_id":174,
+    "sucursal":"Sucursal 0174",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0174",
+    "empleados":46
+  },
+  {
+    "sucursal_id":175,
+    "sucursal":"Sucursal 0175",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0175",
+    "empleados":9
+  },
+  {
+    "sucursal_id":176,
+    "sucursal":"Sucursal 0176",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0176",
+    "empleados":23
+  },
+  {
+    "sucursal_id":177,
+    "sucursal":"Sucursal 0177",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0177",
+    "empleados":11
+  },
+  {
+    "sucursal_id":178,
+    "sucursal":"Sucursal 0178",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0178",
+    "empleados":28
+  },
+  {
+    "sucursal_id":179,
+    "sucursal":"Sucursal 0179",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0179",
+    "empleados":55
+  },
+  {
+    "sucursal_id":180,
+    "sucursal":"Sucursal 0180",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0180",
+    "empleados":46
+  },
+  {
+    "sucursal_id":181,
+    "sucursal":"Sucursal 0181",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0181",
+    "empleados":23
+  },
+  {
+    "sucursal_id":182,
+    "sucursal":"Sucursal 0182",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0182",
+    "empleados":15
+  },
+  {
+    "sucursal_id":183,
+    "sucursal":"Sucursal 0183",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0183",
+    "empleados":7
+  },
+  {
+    "sucursal_id":184,
+    "sucursal":"Sucursal 0184",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0184",
+    "empleados":34
+  },
+  {
+    "sucursal_id":185,
+    "sucursal":"Sucursal 0185",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0185",
+    "empleados":47
+  },
+  {
+    "sucursal_id":186,
+    "sucursal":"Sucursal 0186",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0186",
+    "empleados":42
+  },
+  {
+    "sucursal_id":187,
+    "sucursal":"Sucursal 0187",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0187",
+    "empleados":10
+  },
+  {
+    "sucursal_id":188,
+    "sucursal":"Sucursal 0188",
+    "ciudad":"García",
+    "gerente":"Gerente 0188",
+    "empleados":51
+  },
+  {
+    "sucursal_id":189,
+    "sucursal":"Sucursal 0189",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0189",
+    "empleados":39
+  },
+  {
+    "sucursal_id":190,
+    "sucursal":"Sucursal 0190",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0190",
+    "empleados":26
+  },
+  {
+    "sucursal_id":191,
+    "sucursal":"Sucursal 0191",
+    "ciudad":"García",
+    "gerente":"Gerente 0191",
+    "empleados":15
+  },
+  {
+    "sucursal_id":192,
+    "sucursal":"Sucursal 0192",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0192",
+    "empleados":12
+  },
+  {
+    "sucursal_id":193,
+    "sucursal":"Sucursal 0193",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0193",
+    "empleados":31
+  },
+  {
+    "sucursal_id":194,
+    "sucursal":"Sucursal 0194",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0194",
+    "empleados":33
+  },
+  {
+    "sucursal_id":195,
+    "sucursal":"Sucursal 0195",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0195",
+    "empleados":59
+  },
+  {
+    "sucursal_id":196,
+    "sucursal":"Sucursal 0196",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0196",
+    "empleados":59
+  },
+  {
+    "sucursal_id":197,
+    "sucursal":"Sucursal 0197",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0197",
+    "empleados":12
+  },
+  {
+    "sucursal_id":198,
+    "sucursal":"Sucursal 0198",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0198",
+    "empleados":27
+  },
+  {
+    "sucursal_id":199,
+    "sucursal":"Sucursal 0199",
+    "ciudad":"García",
+    "gerente":"Gerente 0199",
+    "empleados":33
+  },
+  {
+    "sucursal_id":200,
+    "sucursal":"Sucursal 0200",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0200",
+    "empleados":20
+  },
+  {
+    "sucursal_id":201,
+    "sucursal":"Sucursal 0201",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0201",
+    "empleados":39
+  },
+  {
+    "sucursal_id":202,
+    "sucursal":"Sucursal 0202",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0202",
+    "empleados":12
+  },
+  {
+    "sucursal_id":203,
+    "sucursal":"Sucursal 0203",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0203",
+    "empleados":12
+  },
+  {
+    "sucursal_id":204,
+    "sucursal":"Sucursal 0204",
+    "ciudad":"García",
+    "gerente":"Gerente 0204",
+    "empleados":49
+  },
+  {
+    "sucursal_id":205,
+    "sucursal":"Sucursal 0205",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0205",
+    "empleados":37
+  },
+  {
+    "sucursal_id":206,
+    "sucursal":"Sucursal 0206",
+    "ciudad":"García",
+    "gerente":"Gerente 0206",
+    "empleados":46
+  },
+  {
+    "sucursal_id":207,
+    "sucursal":"Sucursal 0207",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0207",
+    "empleados":9
+  },
+  {
+    "sucursal_id":208,
+    "sucursal":"Sucursal 0208",
+    "ciudad":"García",
+    "gerente":"Gerente 0208",
+    "empleados":41
+  },
+  {
+    "sucursal_id":209,
+    "sucursal":"Sucursal 0209",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0209",
+    "empleados":21
+  },
+  {
+    "sucursal_id":210,
+    "sucursal":"Sucursal 0210",
+    "ciudad":"García",
+    "gerente":"Gerente 0210",
+    "empleados":26
+  },
+  {
+    "sucursal_id":211,
+    "sucursal":"Sucursal 0211",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0211",
+    "empleados":18
+  },
+  {
+    "sucursal_id":212,
+    "sucursal":"Sucursal 0212",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0212",
+    "empleados":42
+  },
+  {
+    "sucursal_id":213,
+    "sucursal":"Sucursal 0213",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0213",
+    "empleados":36
+  },
+  {
+    "sucursal_id":214,
+    "sucursal":"Sucursal 0214",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0214",
+    "empleados":18
+  },
+  {
+    "sucursal_id":215,
+    "sucursal":"Sucursal 0215",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0215",
+    "empleados":48
+  },
+  {
+    "sucursal_id":216,
+    "sucursal":"Sucursal 0216",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0216",
+    "empleados":24
+  },
+  {
+    "sucursal_id":217,
+    "sucursal":"Sucursal 0217",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0217",
+    "empleados":26
+  },
+  {
+    "sucursal_id":218,
+    "sucursal":"Sucursal 0218",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0218",
+    "empleados":34
+  },
+  {
+    "sucursal_id":219,
+    "sucursal":"Sucursal 0219",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0219",
+    "empleados":58
+  },
+  {
+    "sucursal_id":220,
+    "sucursal":"Sucursal 0220",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0220",
+    "empleados":37
+  },
+  {
+    "sucursal_id":221,
+    "sucursal":"Sucursal 0221",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0221",
+    "empleados":9
+  },
+  {
+    "sucursal_id":222,
+    "sucursal":"Sucursal 0222",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0222",
+    "empleados":22
+  },
+  {
+    "sucursal_id":223,
+    "sucursal":"Sucursal 0223",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0223",
+    "empleados":50
+  },
+  {
+    "sucursal_id":224,
+    "sucursal":"Sucursal 0224",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0224",
+    "empleados":11
+  },
+  {
+    "sucursal_id":225,
+    "sucursal":"Sucursal 0225",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0225",
+    "empleados":33
+  },
+  {
+    "sucursal_id":226,
+    "sucursal":"Sucursal 0226",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0226",
+    "empleados":51
+  },
+  {
+    "sucursal_id":227,
+    "sucursal":"Sucursal 0227",
+    "ciudad":"García",
+    "gerente":"Gerente 0227",
+    "empleados":13
+  },
+  {
+    "sucursal_id":228,
+    "sucursal":"Sucursal 0228",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0228",
+    "empleados":51
+  },
+  {
+    "sucursal_id":229,
+    "sucursal":"Sucursal 0229",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0229",
+    "empleados":52
+  },
+  {
+    "sucursal_id":230,
+    "sucursal":"Sucursal 0230",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0230",
+    "empleados":45
+  },
+  {
+    "sucursal_id":231,
+    "sucursal":"Sucursal 0231",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0231",
+    "empleados":11
+  },
+  {
+    "sucursal_id":232,
+    "sucursal":"Sucursal 0232",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0232",
+    "empleados":11
+  },
+  {
+    "sucursal_id":233,
+    "sucursal":"Sucursal 0233",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0233",
+    "empleados":53
+  },
+  {
+    "sucursal_id":234,
+    "sucursal":"Sucursal 0234",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0234",
+    "empleados":47
+  },
+  {
+    "sucursal_id":235,
+    "sucursal":"Sucursal 0235",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0235",
+    "empleados":10
+  },
+  {
+    "sucursal_id":236,
+    "sucursal":"Sucursal 0236",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0236",
+    "empleados":50
+  },
+  {
+    "sucursal_id":237,
+    "sucursal":"Sucursal 0237",
+    "ciudad":"García",
+    "gerente":"Gerente 0237",
+    "empleados":51
+  },
+  {
+    "sucursal_id":238,
+    "sucursal":"Sucursal 0238",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0238",
+    "empleados":57
+  },
+  {
+    "sucursal_id":239,
+    "sucursal":"Sucursal 0239",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0239",
+    "empleados":44
+  },
+  {
+    "sucursal_id":240,
+    "sucursal":"Sucursal 0240",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0240",
+    "empleados":31
+  },
+  {
+    "sucursal_id":241,
+    "sucursal":"Sucursal 0241",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0241",
+    "empleados":8
+  },
+  {
+    "sucursal_id":242,
+    "sucursal":"Sucursal 0242",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0242",
+    "empleados":5
+  },
+  {
+    "sucursal_id":243,
+    "sucursal":"Sucursal 0243",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0243",
+    "empleados":10
+  },
+  {
+    "sucursal_id":244,
+    "sucursal":"Sucursal 0244",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0244",
+    "empleados":35
+  },
+  {
+    "sucursal_id":245,
+    "sucursal":"Sucursal 0245",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0245",
+    "empleados":5
+  },
+  {
+    "sucursal_id":246,
+    "sucursal":"Sucursal 0246",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0246",
+    "empleados":57
+  },
+  {
+    "sucursal_id":247,
+    "sucursal":"Sucursal 0247",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0247",
+    "empleados":9
+  },
+  {
+    "sucursal_id":248,
+    "sucursal":"Sucursal 0248",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0248",
+    "empleados":23
+  },
+  {
+    "sucursal_id":249,
+    "sucursal":"Sucursal 0249",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0249",
+    "empleados":9
+  },
+  {
+    "sucursal_id":250,
+    "sucursal":"Sucursal 0250",
+    "ciudad":"García",
+    "gerente":"Gerente 0250",
+    "empleados":58
+  },
+  {
+    "sucursal_id":251,
+    "sucursal":"Sucursal 0251",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0251",
+    "empleados":9
+  },
+  {
+    "sucursal_id":252,
+    "sucursal":"Sucursal 0252",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0252",
+    "empleados":53
+  },
+  {
+    "sucursal_id":253,
+    "sucursal":"Sucursal 0253",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0253",
+    "empleados":35
+  },
+  {
+    "sucursal_id":254,
+    "sucursal":"Sucursal 0254",
+    "ciudad":"García",
+    "gerente":"Gerente 0254",
+    "empleados":48
+  },
+  {
+    "sucursal_id":255,
+    "sucursal":"Sucursal 0255",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0255",
+    "empleados":11
+  },
+  {
+    "sucursal_id":256,
+    "sucursal":"Sucursal 0256",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0256",
+    "empleados":19
+  },
+  {
+    "sucursal_id":257,
+    "sucursal":"Sucursal 0257",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0257",
+    "empleados":55
+  },
+  {
+    "sucursal_id":258,
+    "sucursal":"Sucursal 0258",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0258",
+    "empleados":59
+  },
+  {
+    "sucursal_id":259,
+    "sucursal":"Sucursal 0259",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0259",
+    "empleados":57
+  },
+  {
+    "sucursal_id":260,
+    "sucursal":"Sucursal 0260",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0260",
+    "empleados":17
+  },
+  {
+    "sucursal_id":261,
+    "sucursal":"Sucursal 0261",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0261",
+    "empleados":16
+  },
+  {
+    "sucursal_id":262,
+    "sucursal":"Sucursal 0262",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0262",
+    "empleados":23
+  },
+  {
+    "sucursal_id":263,
+    "sucursal":"Sucursal 0263",
+    "ciudad":"García",
+    "gerente":"Gerente 0263",
+    "empleados":17
+  },
+  {
+    "sucursal_id":264,
+    "sucursal":"Sucursal 0264",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0264",
+    "empleados":31
+  },
+  {
+    "sucursal_id":265,
+    "sucursal":"Sucursal 0265",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0265",
+    "empleados":42
+  },
+  {
+    "sucursal_id":266,
+    "sucursal":"Sucursal 0266",
+    "ciudad":"García",
+    "gerente":"Gerente 0266",
+    "empleados":37
+  },
+  {
+    "sucursal_id":267,
+    "sucursal":"Sucursal 0267",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0267",
+    "empleados":10
+  },
+  {
+    "sucursal_id":268,
+    "sucursal":"Sucursal 0268",
+    "ciudad":"García",
+    "gerente":"Gerente 0268",
+    "empleados":17
+  },
+  {
+    "sucursal_id":269,
+    "sucursal":"Sucursal 0269",
+    "ciudad":"García",
+    "gerente":"Gerente 0269",
+    "empleados":17
+  },
+  {
+    "sucursal_id":270,
+    "sucursal":"Sucursal 0270",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0270",
+    "empleados":17
+  },
+  {
+    "sucursal_id":271,
+    "sucursal":"Sucursal 0271",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0271",
+    "empleados":24
+  },
+  {
+    "sucursal_id":272,
+    "sucursal":"Sucursal 0272",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0272",
+    "empleados":40
+  },
+  {
+    "sucursal_id":273,
+    "sucursal":"Sucursal 0273",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0273",
+    "empleados":41
+  },
+  {
+    "sucursal_id":274,
+    "sucursal":"Sucursal 0274",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0274",
+    "empleados":49
+  },
+  {
+    "sucursal_id":275,
+    "sucursal":"Sucursal 0275",
+    "ciudad":"García",
+    "gerente":"Gerente 0275",
+    "empleados":13
+  },
+  {
+    "sucursal_id":276,
+    "sucursal":"Sucursal 0276",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0276",
+    "empleados":21
+  },
+  {
+    "sucursal_id":277,
+    "sucursal":"Sucursal 0277",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0277",
+    "empleados":39
+  },
+  {
+    "sucursal_id":278,
+    "sucursal":"Sucursal 0278",
+    "ciudad":"García",
+    "gerente":"Gerente 0278",
+    "empleados":56
+  },
+  {
+    "sucursal_id":279,
+    "sucursal":"Sucursal 0279",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0279",
+    "empleados":22
+  },
+  {
+    "sucursal_id":280,
+    "sucursal":"Sucursal 0280",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0280",
+    "empleados":29
+  },
+  {
+    "sucursal_id":281,
+    "sucursal":"Sucursal 0281",
+    "ciudad":"García",
+    "gerente":"Gerente 0281",
+    "empleados":19
+  },
+  {
+    "sucursal_id":282,
+    "sucursal":"Sucursal 0282",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0282",
+    "empleados":27
+  },
+  {
+    "sucursal_id":283,
+    "sucursal":"Sucursal 0283",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0283",
+    "empleados":5
+  },
+  {
+    "sucursal_id":284,
+    "sucursal":"Sucursal 0284",
+    "ciudad":"García",
+    "gerente":"Gerente 0284",
+    "empleados":45
+  },
+  {
+    "sucursal_id":285,
+    "sucursal":"Sucursal 0285",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0285",
+    "empleados":42
+  },
+  {
+    "sucursal_id":286,
+    "sucursal":"Sucursal 0286",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0286",
+    "empleados":22
+  },
+  {
+    "sucursal_id":287,
+    "sucursal":"Sucursal 0287",
+    "ciudad":"García",
+    "gerente":"Gerente 0287",
+    "empleados":5
+  },
+  {
+    "sucursal_id":288,
+    "sucursal":"Sucursal 0288",
+    "ciudad":"García",
+    "gerente":"Gerente 0288",
+    "empleados":58
+  },
+  {
+    "sucursal_id":289,
+    "sucursal":"Sucursal 0289",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0289",
+    "empleados":43
+  },
+  {
+    "sucursal_id":290,
+    "sucursal":"Sucursal 0290",
+    "ciudad":"García",
+    "gerente":"Gerente 0290",
+    "empleados":14
+  },
+  {
+    "sucursal_id":291,
+    "sucursal":"Sucursal 0291",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0291",
+    "empleados":35
+  },
+  {
+    "sucursal_id":292,
+    "sucursal":"Sucursal 0292",
+    "ciudad":"García",
+    "gerente":"Gerente 0292",
+    "empleados":42
+  },
+  {
+    "sucursal_id":293,
+    "sucursal":"Sucursal 0293",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0293",
+    "empleados":11
+  },
+  {
+    "sucursal_id":294,
+    "sucursal":"Sucursal 0294",
+    "ciudad":"García",
+    "gerente":"Gerente 0294",
+    "empleados":42
+  },
+  {
+    "sucursal_id":295,
+    "sucursal":"Sucursal 0295",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0295",
+    "empleados":12
+  },
+  {
+    "sucursal_id":296,
+    "sucursal":"Sucursal 0296",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0296",
+    "empleados":38
+  },
+  {
+    "sucursal_id":297,
+    "sucursal":"Sucursal 0297",
+    "ciudad":"García",
+    "gerente":"Gerente 0297",
+    "empleados":13
+  },
+  {
+    "sucursal_id":298,
+    "sucursal":"Sucursal 0298",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0298",
+    "empleados":29
+  },
+  {
+    "sucursal_id":299,
+    "sucursal":"Sucursal 0299",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0299",
+    "empleados":31
+  },
+  {
+    "sucursal_id":300,
+    "sucursal":"Sucursal 0300",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0300",
+    "empleados":45
+  },
+  {
+    "sucursal_id":301,
+    "sucursal":"Sucursal 0301",
+    "ciudad":"García",
+    "gerente":"Gerente 0301",
+    "empleados":11
+  },
+  {
+    "sucursal_id":302,
+    "sucursal":"Sucursal 0302",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0302",
+    "empleados":36
+  },
+  {
+    "sucursal_id":303,
+    "sucursal":"Sucursal 0303",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0303",
+    "empleados":13
+  },
+  {
+    "sucursal_id":304,
+    "sucursal":"Sucursal 0304",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0304",
+    "empleados":21
+  },
+  {
+    "sucursal_id":305,
+    "sucursal":"Sucursal 0305",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0305",
+    "empleados":39
+  },
+  {
+    "sucursal_id":306,
+    "sucursal":"Sucursal 0306",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0306",
+    "empleados":52
+  },
+  {
+    "sucursal_id":307,
+    "sucursal":"Sucursal 0307",
+    "ciudad":"García",
+    "gerente":"Gerente 0307",
+    "empleados":20
+  },
+  {
+    "sucursal_id":308,
+    "sucursal":"Sucursal 0308",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0308",
+    "empleados":6
+  },
+  {
+    "sucursal_id":309,
+    "sucursal":"Sucursal 0309",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0309",
+    "empleados":47
+  },
+  {
+    "sucursal_id":310,
+    "sucursal":"Sucursal 0310",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0310",
+    "empleados":35
+  },
+  {
+    "sucursal_id":311,
+    "sucursal":"Sucursal 0311",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0311",
+    "empleados":20
+  },
+  {
+    "sucursal_id":312,
+    "sucursal":"Sucursal 0312",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0312",
+    "empleados":51
+  },
+  {
+    "sucursal_id":313,
+    "sucursal":"Sucursal 0313",
+    "ciudad":"García",
+    "gerente":"Gerente 0313",
+    "empleados":37
+  },
+  {
+    "sucursal_id":314,
+    "sucursal":"Sucursal 0314",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0314",
+    "empleados":25
+  },
+  {
+    "sucursal_id":315,
+    "sucursal":"Sucursal 0315",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0315",
+    "empleados":21
+  },
+  {
+    "sucursal_id":316,
+    "sucursal":"Sucursal 0316",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0316",
+    "empleados":39
+  },
+  {
+    "sucursal_id":317,
+    "sucursal":"Sucursal 0317",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0317",
+    "empleados":58
+  },
+  {
+    "sucursal_id":318,
+    "sucursal":"Sucursal 0318",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0318",
+    "empleados":58
+  },
+  {
+    "sucursal_id":319,
+    "sucursal":"Sucursal 0319",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0319",
+    "empleados":55
+  },
+  {
+    "sucursal_id":320,
+    "sucursal":"Sucursal 0320",
+    "ciudad":"García",
+    "gerente":"Gerente 0320",
+    "empleados":56
+  },
+  {
+    "sucursal_id":321,
+    "sucursal":"Sucursal 0321",
+    "ciudad":"García",
+    "gerente":"Gerente 0321",
+    "empleados":11
+  },
+  {
+    "sucursal_id":322,
+    "sucursal":"Sucursal 0322",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0322",
+    "empleados":58
+  },
+  {
+    "sucursal_id":323,
+    "sucursal":"Sucursal 0323",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0323",
+    "empleados":33
+  },
+  {
+    "sucursal_id":324,
+    "sucursal":"Sucursal 0324",
+    "ciudad":"García",
+    "gerente":"Gerente 0324",
+    "empleados":15
+  },
+  {
+    "sucursal_id":325,
+    "sucursal":"Sucursal 0325",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0325",
+    "empleados":34
+  },
+  {
+    "sucursal_id":326,
+    "sucursal":"Sucursal 0326",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0326",
+    "empleados":22
+  },
+  {
+    "sucursal_id":327,
+    "sucursal":"Sucursal 0327",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0327",
+    "empleados":50
+  },
+  {
+    "sucursal_id":328,
+    "sucursal":"Sucursal 0328",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0328",
+    "empleados":20
+  },
+  {
+    "sucursal_id":329,
+    "sucursal":"Sucursal 0329",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0329",
+    "empleados":10
+  },
+  {
+    "sucursal_id":330,
+    "sucursal":"Sucursal 0330",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0330",
+    "empleados":6
+  },
+  {
+    "sucursal_id":331,
+    "sucursal":"Sucursal 0331",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0331",
+    "empleados":59
+  },
+  {
+    "sucursal_id":332,
+    "sucursal":"Sucursal 0332",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0332",
+    "empleados":47
+  },
+  {
+    "sucursal_id":333,
+    "sucursal":"Sucursal 0333",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0333",
+    "empleados":47
+  },
+  {
+    "sucursal_id":334,
+    "sucursal":"Sucursal 0334",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0334",
+    "empleados":14
+  },
+  {
+    "sucursal_id":335,
+    "sucursal":"Sucursal 0335",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0335",
+    "empleados":8
+  },
+  {
+    "sucursal_id":336,
+    "sucursal":"Sucursal 0336",
+    "ciudad":"García",
+    "gerente":"Gerente 0336",
+    "empleados":53
+  },
+  {
+    "sucursal_id":337,
+    "sucursal":"Sucursal 0337",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0337",
+    "empleados":14
+  },
+  {
+    "sucursal_id":338,
+    "sucursal":"Sucursal 0338",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0338",
+    "empleados":13
+  },
+  {
+    "sucursal_id":339,
+    "sucursal":"Sucursal 0339",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0339",
+    "empleados":49
+  },
+  {
+    "sucursal_id":340,
+    "sucursal":"Sucursal 0340",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0340",
+    "empleados":47
+  },
+  {
+    "sucursal_id":341,
+    "sucursal":"Sucursal 0341",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0341",
+    "empleados":46
+  },
+  {
+    "sucursal_id":342,
+    "sucursal":"Sucursal 0342",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0342",
+    "empleados":28
+  },
+  {
+    "sucursal_id":343,
+    "sucursal":"Sucursal 0343",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0343",
+    "empleados":9
+  },
+  {
+    "sucursal_id":344,
+    "sucursal":"Sucursal 0344",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0344",
+    "empleados":39
+  },
+  {
+    "sucursal_id":345,
+    "sucursal":"Sucursal 0345",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0345",
+    "empleados":8
+  },
+  {
+    "sucursal_id":346,
+    "sucursal":"Sucursal 0346",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0346",
+    "empleados":39
+  },
+  {
+    "sucursal_id":347,
+    "sucursal":"Sucursal 0347",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0347",
+    "empleados":46
+  },
+  {
+    "sucursal_id":348,
+    "sucursal":"Sucursal 0348",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0348",
+    "empleados":17
+  },
+  {
+    "sucursal_id":349,
+    "sucursal":"Sucursal 0349",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0349",
+    "empleados":41
+  },
+  {
+    "sucursal_id":350,
+    "sucursal":"Sucursal 0350",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0350",
+    "empleados":36
+  },
+  {
+    "sucursal_id":351,
+    "sucursal":"Sucursal 0351",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0351",
+    "empleados":49
+  },
+  {
+    "sucursal_id":352,
+    "sucursal":"Sucursal 0352",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0352",
+    "empleados":5
+  },
+  {
+    "sucursal_id":353,
+    "sucursal":"Sucursal 0353",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0353",
+    "empleados":15
+  },
+  {
+    "sucursal_id":354,
+    "sucursal":"Sucursal 0354",
+    "ciudad":"García",
+    "gerente":"Gerente 0354",
+    "empleados":30
+  },
+  {
+    "sucursal_id":355,
+    "sucursal":"Sucursal 0355",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0355",
+    "empleados":7
+  },
+  {
+    "sucursal_id":356,
+    "sucursal":"Sucursal 0356",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0356",
+    "empleados":53
+  },
+  {
+    "sucursal_id":357,
+    "sucursal":"Sucursal 0357",
+    "ciudad":"García",
+    "gerente":"Gerente 0357",
+    "empleados":55
+  },
+  {
+    "sucursal_id":358,
+    "sucursal":"Sucursal 0358",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0358",
+    "empleados":17
+  },
+  {
+    "sucursal_id":359,
+    "sucursal":"Sucursal 0359",
+    "ciudad":"García",
+    "gerente":"Gerente 0359",
+    "empleados":36
+  },
+  {
+    "sucursal_id":360,
+    "sucursal":"Sucursal 0360",
+    "ciudad":"García",
+    "gerente":"Gerente 0360",
+    "empleados":52
+  },
+  {
+    "sucursal_id":361,
+    "sucursal":"Sucursal 0361",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0361",
+    "empleados":54
+  },
+  {
+    "sucursal_id":362,
+    "sucursal":"Sucursal 0362",
+    "ciudad":"García",
+    "gerente":"Gerente 0362",
+    "empleados":27
+  },
+  {
+    "sucursal_id":363,
+    "sucursal":"Sucursal 0363",
+    "ciudad":"García",
+    "gerente":"Gerente 0363",
+    "empleados":56
+  },
+  {
+    "sucursal_id":364,
+    "sucursal":"Sucursal 0364",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0364",
+    "empleados":27
+  },
+  {
+    "sucursal_id":365,
+    "sucursal":"Sucursal 0365",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0365",
+    "empleados":55
+  },
+  {
+    "sucursal_id":366,
+    "sucursal":"Sucursal 0366",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0366",
+    "empleados":34
+  },
+  {
+    "sucursal_id":367,
+    "sucursal":"Sucursal 0367",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0367",
+    "empleados":10
+  },
+  {
+    "sucursal_id":368,
+    "sucursal":"Sucursal 0368",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0368",
+    "empleados":59
+  },
+  {
+    "sucursal_id":369,
+    "sucursal":"Sucursal 0369",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0369",
+    "empleados":11
+  },
+  {
+    "sucursal_id":370,
+    "sucursal":"Sucursal 0370",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0370",
+    "empleados":51
+  },
+  {
+    "sucursal_id":371,
+    "sucursal":"Sucursal 0371",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0371",
+    "empleados":34
+  },
+  {
+    "sucursal_id":372,
+    "sucursal":"Sucursal 0372",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0372",
+    "empleados":41
+  },
+  {
+    "sucursal_id":373,
+    "sucursal":"Sucursal 0373",
+    "ciudad":"García",
+    "gerente":"Gerente 0373",
+    "empleados":52
+  },
+  {
+    "sucursal_id":374,
+    "sucursal":"Sucursal 0374",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0374",
+    "empleados":36
+  },
+  {
+    "sucursal_id":375,
+    "sucursal":"Sucursal 0375",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0375",
+    "empleados":10
+  },
+  {
+    "sucursal_id":376,
+    "sucursal":"Sucursal 0376",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0376",
+    "empleados":39
+  },
+  {
+    "sucursal_id":377,
+    "sucursal":"Sucursal 0377",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0377",
+    "empleados":36
+  },
+  {
+    "sucursal_id":378,
+    "sucursal":"Sucursal 0378",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0378",
+    "empleados":16
+  },
+  {
+    "sucursal_id":379,
+    "sucursal":"Sucursal 0379",
+    "ciudad":"García",
+    "gerente":"Gerente 0379",
+    "empleados":8
+  },
+  {
+    "sucursal_id":380,
+    "sucursal":"Sucursal 0380",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0380",
+    "empleados":36
+  },
+  {
+    "sucursal_id":381,
+    "sucursal":"Sucursal 0381",
+    "ciudad":"García",
+    "gerente":"Gerente 0381",
+    "empleados":58
+  },
+  {
+    "sucursal_id":382,
+    "sucursal":"Sucursal 0382",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0382",
+    "empleados":39
+  },
+  {
+    "sucursal_id":383,
+    "sucursal":"Sucursal 0383",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0383",
+    "empleados":52
+  },
+  {
+    "sucursal_id":384,
+    "sucursal":"Sucursal 0384",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0384",
+    "empleados":20
+  },
+  {
+    "sucursal_id":385,
+    "sucursal":"Sucursal 0385",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0385",
+    "empleados":59
+  },
+  {
+    "sucursal_id":386,
+    "sucursal":"Sucursal 0386",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0386",
+    "empleados":55
+  },
+  {
+    "sucursal_id":387,
+    "sucursal":"Sucursal 0387",
+    "ciudad":"García",
+    "gerente":"Gerente 0387",
+    "empleados":19
+  },
+  {
+    "sucursal_id":388,
+    "sucursal":"Sucursal 0388",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0388",
+    "empleados":45
+  },
+  {
+    "sucursal_id":389,
+    "sucursal":"Sucursal 0389",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0389",
+    "empleados":56
+  },
+  {
+    "sucursal_id":390,
+    "sucursal":"Sucursal 0390",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0390",
+    "empleados":6
+  },
+  {
+    "sucursal_id":391,
+    "sucursal":"Sucursal 0391",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0391",
+    "empleados":10
+  },
+  {
+    "sucursal_id":392,
+    "sucursal":"Sucursal 0392",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0392",
+    "empleados":18
+  },
+  {
+    "sucursal_id":393,
+    "sucursal":"Sucursal 0393",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0393",
+    "empleados":45
+  },
+  {
+    "sucursal_id":394,
+    "sucursal":"Sucursal 0394",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0394",
+    "empleados":33
+  },
+  {
+    "sucursal_id":395,
+    "sucursal":"Sucursal 0395",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0395",
+    "empleados":46
+  },
+  {
+    "sucursal_id":396,
+    "sucursal":"Sucursal 0396",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0396",
+    "empleados":30
+  },
+  {
+    "sucursal_id":397,
+    "sucursal":"Sucursal 0397",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0397",
+    "empleados":22
+  },
+  {
+    "sucursal_id":398,
+    "sucursal":"Sucursal 0398",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0398",
+    "empleados":51
+  },
+  {
+    "sucursal_id":399,
+    "sucursal":"Sucursal 0399",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0399",
+    "empleados":8
+  },
+  {
+    "sucursal_id":400,
+    "sucursal":"Sucursal 0400",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0400",
+    "empleados":41
+  },
+  {
+    "sucursal_id":401,
+    "sucursal":"Sucursal 0401",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0401",
+    "empleados":59
+  },
+  {
+    "sucursal_id":402,
+    "sucursal":"Sucursal 0402",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0402",
+    "empleados":57
+  },
+  {
+    "sucursal_id":403,
+    "sucursal":"Sucursal 0403",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0403",
+    "empleados":42
+  },
+  {
+    "sucursal_id":404,
+    "sucursal":"Sucursal 0404",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0404",
+    "empleados":29
+  },
+  {
+    "sucursal_id":405,
+    "sucursal":"Sucursal 0405",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0405",
+    "empleados":51
+  },
+  {
+    "sucursal_id":406,
+    "sucursal":"Sucursal 0406",
+    "ciudad":"García",
+    "gerente":"Gerente 0406",
+    "empleados":56
+  },
+  {
+    "sucursal_id":407,
+    "sucursal":"Sucursal 0407",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0407",
+    "empleados":33
+  },
+  {
+    "sucursal_id":408,
+    "sucursal":"Sucursal 0408",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0408",
+    "empleados":38
+  },
+  {
+    "sucursal_id":409,
+    "sucursal":"Sucursal 0409",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0409",
+    "empleados":20
+  },
+  {
+    "sucursal_id":410,
+    "sucursal":"Sucursal 0410",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0410",
+    "empleados":41
+  },
+  {
+    "sucursal_id":411,
+    "sucursal":"Sucursal 0411",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0411",
+    "empleados":34
+  },
+  {
+    "sucursal_id":412,
+    "sucursal":"Sucursal 0412",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0412",
+    "empleados":27
+  },
+  {
+    "sucursal_id":413,
+    "sucursal":"Sucursal 0413",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0413",
+    "empleados":40
+  },
+  {
+    "sucursal_id":414,
+    "sucursal":"Sucursal 0414",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0414",
+    "empleados":32
+  },
+  {
+    "sucursal_id":415,
+    "sucursal":"Sucursal 0415",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0415",
+    "empleados":5
+  },
+  {
+    "sucursal_id":416,
+    "sucursal":"Sucursal 0416",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0416",
+    "empleados":12
+  },
+  {
+    "sucursal_id":417,
+    "sucursal":"Sucursal 0417",
+    "ciudad":"García",
+    "gerente":"Gerente 0417",
+    "empleados":57
+  },
+  {
+    "sucursal_id":418,
+    "sucursal":"Sucursal 0418",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0418",
+    "empleados":46
+  },
+  {
+    "sucursal_id":419,
+    "sucursal":"Sucursal 0419",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0419",
+    "empleados":19
+  },
+  {
+    "sucursal_id":420,
+    "sucursal":"Sucursal 0420",
+    "ciudad":"García",
+    "gerente":"Gerente 0420",
+    "empleados":38
+  },
+  {
+    "sucursal_id":421,
+    "sucursal":"Sucursal 0421",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0421",
+    "empleados":23
+  },
+  {
+    "sucursal_id":422,
+    "sucursal":"Sucursal 0422",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0422",
+    "empleados":48
+  },
+  {
+    "sucursal_id":423,
+    "sucursal":"Sucursal 0423",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0423",
+    "empleados":34
+  },
+  {
+    "sucursal_id":424,
+    "sucursal":"Sucursal 0424",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0424",
+    "empleados":14
+  },
+  {
+    "sucursal_id":425,
+    "sucursal":"Sucursal 0425",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0425",
+    "empleados":48
+  },
+  {
+    "sucursal_id":426,
+    "sucursal":"Sucursal 0426",
+    "ciudad":"García",
+    "gerente":"Gerente 0426",
+    "empleados":57
+  },
+  {
+    "sucursal_id":427,
+    "sucursal":"Sucursal 0427",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0427",
+    "empleados":31
+  },
+  {
+    "sucursal_id":428,
+    "sucursal":"Sucursal 0428",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0428",
+    "empleados":24
+  },
+  {
+    "sucursal_id":429,
+    "sucursal":"Sucursal 0429",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0429",
+    "empleados":29
+  },
+  {
+    "sucursal_id":430,
+    "sucursal":"Sucursal 0430",
+    "ciudad":"García",
+    "gerente":"Gerente 0430",
+    "empleados":13
+  },
+  {
+    "sucursal_id":431,
+    "sucursal":"Sucursal 0431",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0431",
+    "empleados":44
+  },
+  {
+    "sucursal_id":432,
+    "sucursal":"Sucursal 0432",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0432",
+    "empleados":38
+  },
+  {
+    "sucursal_id":433,
+    "sucursal":"Sucursal 0433",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0433",
+    "empleados":25
+  },
+  {
+    "sucursal_id":434,
+    "sucursal":"Sucursal 0434",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0434",
+    "empleados":28
+  },
+  {
+    "sucursal_id":435,
+    "sucursal":"Sucursal 0435",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0435",
+    "empleados":11
+  },
+  {
+    "sucursal_id":436,
+    "sucursal":"Sucursal 0436",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0436",
+    "empleados":8
+  },
+  {
+    "sucursal_id":437,
+    "sucursal":"Sucursal 0437",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0437",
+    "empleados":55
+  },
+  {
+    "sucursal_id":438,
+    "sucursal":"Sucursal 0438",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0438",
+    "empleados":12
+  },
+  {
+    "sucursal_id":439,
+    "sucursal":"Sucursal 0439",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0439",
+    "empleados":17
+  },
+  {
+    "sucursal_id":440,
+    "sucursal":"Sucursal 0440",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0440",
+    "empleados":25
+  },
+  {
+    "sucursal_id":441,
+    "sucursal":"Sucursal 0441",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0441",
+    "empleados":39
+  },
+  {
+    "sucursal_id":442,
+    "sucursal":"Sucursal 0442",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0442",
+    "empleados":9
+  },
+  {
+    "sucursal_id":443,
+    "sucursal":"Sucursal 0443",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0443",
+    "empleados":56
+  },
+  {
+    "sucursal_id":444,
+    "sucursal":"Sucursal 0444",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0444",
+    "empleados":12
+  },
+  {
+    "sucursal_id":445,
+    "sucursal":"Sucursal 0445",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0445",
+    "empleados":6
+  },
+  {
+    "sucursal_id":446,
+    "sucursal":"Sucursal 0446",
+    "ciudad":"García",
+    "gerente":"Gerente 0446",
+    "empleados":28
+  },
+  {
+    "sucursal_id":447,
+    "sucursal":"Sucursal 0447",
+    "ciudad":"García",
+    "gerente":"Gerente 0447",
+    "empleados":46
+  },
+  {
+    "sucursal_id":448,
+    "sucursal":"Sucursal 0448",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0448",
+    "empleados":58
+  },
+  {
+    "sucursal_id":449,
+    "sucursal":"Sucursal 0449",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0449",
+    "empleados":20
+  },
+  {
+    "sucursal_id":450,
+    "sucursal":"Sucursal 0450",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0450",
+    "empleados":8
+  },
+  {
+    "sucursal_id":451,
+    "sucursal":"Sucursal 0451",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0451",
+    "empleados":34
+  },
+  {
+    "sucursal_id":452,
+    "sucursal":"Sucursal 0452",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0452",
+    "empleados":50
+  },
+  {
+    "sucursal_id":453,
+    "sucursal":"Sucursal 0453",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0453",
+    "empleados":34
+  },
+  {
+    "sucursal_id":454,
+    "sucursal":"Sucursal 0454",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0454",
+    "empleados":39
+  },
+  {
+    "sucursal_id":455,
+    "sucursal":"Sucursal 0455",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0455",
+    "empleados":46
+  },
+  {
+    "sucursal_id":456,
+    "sucursal":"Sucursal 0456",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0456",
+    "empleados":17
+  },
+  {
+    "sucursal_id":457,
+    "sucursal":"Sucursal 0457",
+    "ciudad":"García",
+    "gerente":"Gerente 0457",
+    "empleados":41
+  },
+  {
+    "sucursal_id":458,
+    "sucursal":"Sucursal 0458",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0458",
+    "empleados":58
+  },
+  {
+    "sucursal_id":459,
+    "sucursal":"Sucursal 0459",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0459",
+    "empleados":53
+  },
+  {
+    "sucursal_id":460,
+    "sucursal":"Sucursal 0460",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0460",
+    "empleados":53
+  },
+  {
+    "sucursal_id":461,
+    "sucursal":"Sucursal 0461",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0461",
+    "empleados":15
+  },
+  {
+    "sucursal_id":462,
+    "sucursal":"Sucursal 0462",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0462",
+    "empleados":23
+  },
+  {
+    "sucursal_id":463,
+    "sucursal":"Sucursal 0463",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0463",
+    "empleados":22
+  },
+  {
+    "sucursal_id":464,
+    "sucursal":"Sucursal 0464",
+    "ciudad":"García",
+    "gerente":"Gerente 0464",
+    "empleados":21
+  },
+  {
+    "sucursal_id":465,
+    "sucursal":"Sucursal 0465",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0465",
+    "empleados":15
+  },
+  {
+    "sucursal_id":466,
+    "sucursal":"Sucursal 0466",
+    "ciudad":"García",
+    "gerente":"Gerente 0466",
+    "empleados":19
+  },
+  {
+    "sucursal_id":467,
+    "sucursal":"Sucursal 0467",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0467",
+    "empleados":12
+  },
+  {
+    "sucursal_id":468,
+    "sucursal":"Sucursal 0468",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0468",
+    "empleados":48
+  },
+  {
+    "sucursal_id":469,
+    "sucursal":"Sucursal 0469",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0469",
+    "empleados":33
+  },
+  {
+    "sucursal_id":470,
+    "sucursal":"Sucursal 0470",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0470",
+    "empleados":21
+  },
+  {
+    "sucursal_id":471,
+    "sucursal":"Sucursal 0471",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0471",
+    "empleados":30
+  },
+  {
+    "sucursal_id":472,
+    "sucursal":"Sucursal 0472",
+    "ciudad":"García",
+    "gerente":"Gerente 0472",
+    "empleados":9
+  },
+  {
+    "sucursal_id":473,
+    "sucursal":"Sucursal 0473",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0473",
+    "empleados":8
+  },
+  {
+    "sucursal_id":474,
+    "sucursal":"Sucursal 0474",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0474",
+    "empleados":28
+  },
+  {
+    "sucursal_id":475,
+    "sucursal":"Sucursal 0475",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0475",
+    "empleados":15
+  },
+  {
+    "sucursal_id":476,
+    "sucursal":"Sucursal 0476",
+    "ciudad":"García",
+    "gerente":"Gerente 0476",
+    "empleados":34
+  },
+  {
+    "sucursal_id":477,
+    "sucursal":"Sucursal 0477",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0477",
+    "empleados":44
+  },
+  {
+    "sucursal_id":478,
+    "sucursal":"Sucursal 0478",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0478",
+    "empleados":52
+  },
+  {
+    "sucursal_id":479,
+    "sucursal":"Sucursal 0479",
+    "ciudad":"García",
+    "gerente":"Gerente 0479",
+    "empleados":52
+  },
+  {
+    "sucursal_id":480,
+    "sucursal":"Sucursal 0480",
+    "ciudad":"García",
+    "gerente":"Gerente 0480",
+    "empleados":39
+  },
+  {
+    "sucursal_id":481,
+    "sucursal":"Sucursal 0481",
+    "ciudad":"García",
+    "gerente":"Gerente 0481",
+    "empleados":48
+  },
+  {
+    "sucursal_id":482,
+    "sucursal":"Sucursal 0482",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0482",
+    "empleados":49
+  },
+  {
+    "sucursal_id":483,
+    "sucursal":"Sucursal 0483",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0483",
+    "empleados":37
+  },
+  {
+    "sucursal_id":484,
+    "sucursal":"Sucursal 0484",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0484",
+    "empleados":40
+  },
+  {
+    "sucursal_id":485,
+    "sucursal":"Sucursal 0485",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0485",
+    "empleados":25
+  },
+  {
+    "sucursal_id":486,
+    "sucursal":"Sucursal 0486",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0486",
+    "empleados":42
+  },
+  {
+    "sucursal_id":487,
+    "sucursal":"Sucursal 0487",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0487",
+    "empleados":9
+  },
+  {
+    "sucursal_id":488,
+    "sucursal":"Sucursal 0488",
+    "ciudad":"García",
+    "gerente":"Gerente 0488",
+    "empleados":9
+  },
+  {
+    "sucursal_id":489,
+    "sucursal":"Sucursal 0489",
+    "ciudad":"García",
+    "gerente":"Gerente 0489",
+    "empleados":25
+  },
+  {
+    "sucursal_id":490,
+    "sucursal":"Sucursal 0490",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0490",
+    "empleados":29
+  },
+  {
+    "sucursal_id":491,
+    "sucursal":"Sucursal 0491",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0491",
+    "empleados":14
+  },
+  {
+    "sucursal_id":492,
+    "sucursal":"Sucursal 0492",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0492",
+    "empleados":23
+  },
+  {
+    "sucursal_id":493,
+    "sucursal":"Sucursal 0493",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0493",
+    "empleados":36
+  },
+  {
+    "sucursal_id":494,
+    "sucursal":"Sucursal 0494",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0494",
+    "empleados":22
+  },
+  {
+    "sucursal_id":495,
+    "sucursal":"Sucursal 0495",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0495",
+    "empleados":38
+  },
+  {
+    "sucursal_id":496,
+    "sucursal":"Sucursal 0496",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0496",
+    "empleados":52
+  },
+  {
+    "sucursal_id":497,
+    "sucursal":"Sucursal 0497",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0497",
+    "empleados":19
+  },
+  {
+    "sucursal_id":498,
+    "sucursal":"Sucursal 0498",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0498",
+    "empleados":28
+  },
+  {
+    "sucursal_id":499,
+    "sucursal":"Sucursal 0499",
+    "ciudad":"García",
+    "gerente":"Gerente 0499",
+    "empleados":9
+  },
+  {
+    "sucursal_id":500,
+    "sucursal":"Sucursal 0500",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0500",
+    "empleados":57
+  },
+  {
+    "sucursal_id":501,
+    "sucursal":"Sucursal 0501",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0501",
+    "empleados":58
+  },
+  {
+    "sucursal_id":502,
+    "sucursal":"Sucursal 0502",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0502",
+    "empleados":36
+  },
+  {
+    "sucursal_id":503,
+    "sucursal":"Sucursal 0503",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0503",
+    "empleados":13
+  },
+  {
+    "sucursal_id":504,
+    "sucursal":"Sucursal 0504",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0504",
+    "empleados":59
+  },
+  {
+    "sucursal_id":505,
+    "sucursal":"Sucursal 0505",
+    "ciudad":"García",
+    "gerente":"Gerente 0505",
+    "empleados":9
+  },
+  {
+    "sucursal_id":506,
+    "sucursal":"Sucursal 0506",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0506",
+    "empleados":9
+  },
+  {
+    "sucursal_id":507,
+    "sucursal":"Sucursal 0507",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0507",
+    "empleados":45
+  },
+  {
+    "sucursal_id":508,
+    "sucursal":"Sucursal 0508",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0508",
+    "empleados":45
+  },
+  {
+    "sucursal_id":509,
+    "sucursal":"Sucursal 0509",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0509",
+    "empleados":38
+  },
+  {
+    "sucursal_id":510,
+    "sucursal":"Sucursal 0510",
+    "ciudad":"García",
+    "gerente":"Gerente 0510",
+    "empleados":11
+  },
+  {
+    "sucursal_id":511,
+    "sucursal":"Sucursal 0511",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0511",
+    "empleados":30
+  },
+  {
+    "sucursal_id":512,
+    "sucursal":"Sucursal 0512",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0512",
+    "empleados":5
+  },
+  {
+    "sucursal_id":513,
+    "sucursal":"Sucursal 0513",
+    "ciudad":"García",
+    "gerente":"Gerente 0513",
+    "empleados":56
+  },
+  {
+    "sucursal_id":514,
+    "sucursal":"Sucursal 0514",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0514",
+    "empleados":38
+  },
+  {
+    "sucursal_id":515,
+    "sucursal":"Sucursal 0515",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0515",
+    "empleados":30
+  },
+  {
+    "sucursal_id":516,
+    "sucursal":"Sucursal 0516",
+    "ciudad":"García",
+    "gerente":"Gerente 0516",
+    "empleados":36
+  },
+  {
+    "sucursal_id":517,
+    "sucursal":"Sucursal 0517",
+    "ciudad":"García",
+    "gerente":"Gerente 0517",
+    "empleados":16
+  },
+  {
+    "sucursal_id":518,
+    "sucursal":"Sucursal 0518",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0518",
+    "empleados":10
+  },
+  {
+    "sucursal_id":519,
+    "sucursal":"Sucursal 0519",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0519",
+    "empleados":24
+  },
+  {
+    "sucursal_id":520,
+    "sucursal":"Sucursal 0520",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0520",
+    "empleados":23
+  },
+  {
+    "sucursal_id":521,
+    "sucursal":"Sucursal 0521",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0521",
+    "empleados":20
+  },
+  {
+    "sucursal_id":522,
+    "sucursal":"Sucursal 0522",
+    "ciudad":"García",
+    "gerente":"Gerente 0522",
+    "empleados":8
+  },
+  {
+    "sucursal_id":523,
+    "sucursal":"Sucursal 0523",
+    "ciudad":"García",
+    "gerente":"Gerente 0523",
+    "empleados":36
+  },
+  {
+    "sucursal_id":524,
+    "sucursal":"Sucursal 0524",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0524",
+    "empleados":22
+  },
+  {
+    "sucursal_id":525,
+    "sucursal":"Sucursal 0525",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0525",
+    "empleados":9
+  },
+  {
+    "sucursal_id":526,
+    "sucursal":"Sucursal 0526",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0526",
+    "empleados":58
+  },
+  {
+    "sucursal_id":527,
+    "sucursal":"Sucursal 0527",
+    "ciudad":"García",
+    "gerente":"Gerente 0527",
+    "empleados":54
+  },
+  {
+    "sucursal_id":528,
+    "sucursal":"Sucursal 0528",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0528",
+    "empleados":10
+  },
+  {
+    "sucursal_id":529,
+    "sucursal":"Sucursal 0529",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0529",
+    "empleados":18
+  },
+  {
+    "sucursal_id":530,
+    "sucursal":"Sucursal 0530",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0530",
+    "empleados":56
+  },
+  {
+    "sucursal_id":531,
+    "sucursal":"Sucursal 0531",
+    "ciudad":"García",
+    "gerente":"Gerente 0531",
+    "empleados":53
+  },
+  {
+    "sucursal_id":532,
+    "sucursal":"Sucursal 0532",
+    "ciudad":"García",
+    "gerente":"Gerente 0532",
+    "empleados":22
+  },
+  {
+    "sucursal_id":533,
+    "sucursal":"Sucursal 0533",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0533",
+    "empleados":57
+  },
+  {
+    "sucursal_id":534,
+    "sucursal":"Sucursal 0534",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0534",
+    "empleados":14
+  },
+  {
+    "sucursal_id":535,
+    "sucursal":"Sucursal 0535",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0535",
+    "empleados":27
+  },
+  {
+    "sucursal_id":536,
+    "sucursal":"Sucursal 0536",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0536",
+    "empleados":55
+  },
+  {
+    "sucursal_id":537,
+    "sucursal":"Sucursal 0537",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0537",
+    "empleados":22
+  },
+  {
+    "sucursal_id":538,
+    "sucursal":"Sucursal 0538",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0538",
+    "empleados":8
+  },
+  {
+    "sucursal_id":539,
+    "sucursal":"Sucursal 0539",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0539",
+    "empleados":56
+  },
+  {
+    "sucursal_id":540,
+    "sucursal":"Sucursal 0540",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0540",
+    "empleados":36
+  },
+  {
+    "sucursal_id":541,
+    "sucursal":"Sucursal 0541",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0541",
+    "empleados":51
+  },
+  {
+    "sucursal_id":542,
+    "sucursal":"Sucursal 0542",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0542",
+    "empleados":10
+  },
+  {
+    "sucursal_id":543,
+    "sucursal":"Sucursal 0543",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0543",
+    "empleados":30
+  },
+  {
+    "sucursal_id":544,
+    "sucursal":"Sucursal 0544",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0544",
+    "empleados":10
+  },
+  {
+    "sucursal_id":545,
+    "sucursal":"Sucursal 0545",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0545",
+    "empleados":39
+  },
+  {
+    "sucursal_id":546,
+    "sucursal":"Sucursal 0546",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0546",
+    "empleados":45
+  },
+  {
+    "sucursal_id":547,
+    "sucursal":"Sucursal 0547",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0547",
+    "empleados":47
+  },
+  {
+    "sucursal_id":548,
+    "sucursal":"Sucursal 0548",
+    "ciudad":"García",
+    "gerente":"Gerente 0548",
+    "empleados":9
+  },
+  {
+    "sucursal_id":549,
+    "sucursal":"Sucursal 0549",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0549",
+    "empleados":18
+  },
+  {
+    "sucursal_id":550,
+    "sucursal":"Sucursal 0550",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0550",
+    "empleados":6
+  },
+  {
+    "sucursal_id":551,
+    "sucursal":"Sucursal 0551",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0551",
+    "empleados":58
+  },
+  {
+    "sucursal_id":552,
+    "sucursal":"Sucursal 0552",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0552",
+    "empleados":55
+  },
+  {
+    "sucursal_id":553,
+    "sucursal":"Sucursal 0553",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0553",
+    "empleados":44
+  },
+  {
+    "sucursal_id":554,
+    "sucursal":"Sucursal 0554",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0554",
+    "empleados":17
+  },
+  {
+    "sucursal_id":555,
+    "sucursal":"Sucursal 0555",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0555",
+    "empleados":55
+  },
+  {
+    "sucursal_id":556,
+    "sucursal":"Sucursal 0556",
+    "ciudad":"García",
+    "gerente":"Gerente 0556",
+    "empleados":9
+  },
+  {
+    "sucursal_id":557,
+    "sucursal":"Sucursal 0557",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0557",
+    "empleados":51
+  },
+  {
+    "sucursal_id":558,
+    "sucursal":"Sucursal 0558",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0558",
+    "empleados":40
+  },
+  {
+    "sucursal_id":559,
+    "sucursal":"Sucursal 0559",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0559",
+    "empleados":40
+  },
+  {
+    "sucursal_id":560,
+    "sucursal":"Sucursal 0560",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0560",
+    "empleados":54
+  },
+  {
+    "sucursal_id":561,
+    "sucursal":"Sucursal 0561",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0561",
+    "empleados":23
+  },
+  {
+    "sucursal_id":562,
+    "sucursal":"Sucursal 0562",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0562",
+    "empleados":24
+  },
+  {
+    "sucursal_id":563,
+    "sucursal":"Sucursal 0563",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0563",
+    "empleados":26
+  },
+  {
+    "sucursal_id":564,
+    "sucursal":"Sucursal 0564",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0564",
+    "empleados":35
+  },
+  {
+    "sucursal_id":565,
+    "sucursal":"Sucursal 0565",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0565",
+    "empleados":45
+  },
+  {
+    "sucursal_id":566,
+    "sucursal":"Sucursal 0566",
+    "ciudad":"García",
+    "gerente":"Gerente 0566",
+    "empleados":51
+  },
+  {
+    "sucursal_id":567,
+    "sucursal":"Sucursal 0567",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0567",
+    "empleados":48
+  },
+  {
+    "sucursal_id":568,
+    "sucursal":"Sucursal 0568",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0568",
+    "empleados":8
+  },
+  {
+    "sucursal_id":569,
+    "sucursal":"Sucursal 0569",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0569",
+    "empleados":7
+  },
+  {
+    "sucursal_id":570,
+    "sucursal":"Sucursal 0570",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0570",
+    "empleados":41
+  },
+  {
+    "sucursal_id":571,
+    "sucursal":"Sucursal 0571",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0571",
+    "empleados":29
+  },
+  {
+    "sucursal_id":572,
+    "sucursal":"Sucursal 0572",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0572",
+    "empleados":53
+  },
+  {
+    "sucursal_id":573,
+    "sucursal":"Sucursal 0573",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0573",
+    "empleados":41
+  },
+  {
+    "sucursal_id":574,
+    "sucursal":"Sucursal 0574",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0574",
+    "empleados":8
+  },
+  {
+    "sucursal_id":575,
+    "sucursal":"Sucursal 0575",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0575",
+    "empleados":57
+  },
+  {
+    "sucursal_id":576,
+    "sucursal":"Sucursal 0576",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0576",
+    "empleados":43
+  },
+  {
+    "sucursal_id":577,
+    "sucursal":"Sucursal 0577",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0577",
+    "empleados":11
+  },
+  {
+    "sucursal_id":578,
+    "sucursal":"Sucursal 0578",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0578",
+    "empleados":11
+  },
+  {
+    "sucursal_id":579,
+    "sucursal":"Sucursal 0579",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0579",
+    "empleados":53
+  },
+  {
+    "sucursal_id":580,
+    "sucursal":"Sucursal 0580",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0580",
+    "empleados":29
+  },
+  {
+    "sucursal_id":581,
+    "sucursal":"Sucursal 0581",
+    "ciudad":"García",
+    "gerente":"Gerente 0581",
+    "empleados":19
+  },
+  {
+    "sucursal_id":582,
+    "sucursal":"Sucursal 0582",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0582",
+    "empleados":11
+  },
+  {
+    "sucursal_id":583,
+    "sucursal":"Sucursal 0583",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0583",
+    "empleados":51
+  },
+  {
+    "sucursal_id":584,
+    "sucursal":"Sucursal 0584",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0584",
+    "empleados":56
+  },
+  {
+    "sucursal_id":585,
+    "sucursal":"Sucursal 0585",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0585",
+    "empleados":8
+  },
+  {
+    "sucursal_id":586,
+    "sucursal":"Sucursal 0586",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0586",
+    "empleados":38
+  },
+  {
+    "sucursal_id":587,
+    "sucursal":"Sucursal 0587",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0587",
+    "empleados":58
+  },
+  {
+    "sucursal_id":588,
+    "sucursal":"Sucursal 0588",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0588",
+    "empleados":49
+  },
+  {
+    "sucursal_id":589,
+    "sucursal":"Sucursal 0589",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0589",
+    "empleados":48
+  },
+  {
+    "sucursal_id":590,
+    "sucursal":"Sucursal 0590",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0590",
+    "empleados":46
+  },
+  {
+    "sucursal_id":591,
+    "sucursal":"Sucursal 0591",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0591",
+    "empleados":23
+  },
+  {
+    "sucursal_id":592,
+    "sucursal":"Sucursal 0592",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0592",
+    "empleados":51
+  },
+  {
+    "sucursal_id":593,
+    "sucursal":"Sucursal 0593",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0593",
+    "empleados":53
+  },
+  {
+    "sucursal_id":594,
+    "sucursal":"Sucursal 0594",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0594",
+    "empleados":57
+  },
+  {
+    "sucursal_id":595,
+    "sucursal":"Sucursal 0595",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0595",
+    "empleados":42
+  },
+  {
+    "sucursal_id":596,
+    "sucursal":"Sucursal 0596",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0596",
+    "empleados":31
+  },
+  {
+    "sucursal_id":597,
+    "sucursal":"Sucursal 0597",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0597",
+    "empleados":9
+  },
+  {
+    "sucursal_id":598,
+    "sucursal":"Sucursal 0598",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0598",
+    "empleados":57
+  },
+  {
+    "sucursal_id":599,
+    "sucursal":"Sucursal 0599",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0599",
+    "empleados":17
+  },
+  {
+    "sucursal_id":600,
+    "sucursal":"Sucursal 0600",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0600",
+    "empleados":50
+  },
+  {
+    "sucursal_id":601,
+    "sucursal":"Sucursal 0601",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0601",
+    "empleados":18
+  },
+  {
+    "sucursal_id":602,
+    "sucursal":"Sucursal 0602",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0602",
+    "empleados":34
+  },
+  {
+    "sucursal_id":603,
+    "sucursal":"Sucursal 0603",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0603",
+    "empleados":51
+  },
+  {
+    "sucursal_id":604,
+    "sucursal":"Sucursal 0604",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0604",
+    "empleados":52
+  },
+  {
+    "sucursal_id":605,
+    "sucursal":"Sucursal 0605",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0605",
+    "empleados":14
+  },
+  {
+    "sucursal_id":606,
+    "sucursal":"Sucursal 0606",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0606",
+    "empleados":36
+  },
+  {
+    "sucursal_id":607,
+    "sucursal":"Sucursal 0607",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0607",
+    "empleados":5
+  },
+  {
+    "sucursal_id":608,
+    "sucursal":"Sucursal 0608",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0608",
+    "empleados":28
+  },
+  {
+    "sucursal_id":609,
+    "sucursal":"Sucursal 0609",
+    "ciudad":"García",
+    "gerente":"Gerente 0609",
+    "empleados":33
+  },
+  {
+    "sucursal_id":610,
+    "sucursal":"Sucursal 0610",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0610",
+    "empleados":47
+  },
+  {
+    "sucursal_id":611,
+    "sucursal":"Sucursal 0611",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0611",
+    "empleados":11
+  },
+  {
+    "sucursal_id":612,
+    "sucursal":"Sucursal 0612",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0612",
+    "empleados":35
+  },
+  {
+    "sucursal_id":613,
+    "sucursal":"Sucursal 0613",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0613",
+    "empleados":21
+  },
+  {
+    "sucursal_id":614,
+    "sucursal":"Sucursal 0614",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0614",
+    "empleados":34
+  },
+  {
+    "sucursal_id":615,
+    "sucursal":"Sucursal 0615",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0615",
+    "empleados":29
+  },
+  {
+    "sucursal_id":616,
+    "sucursal":"Sucursal 0616",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0616",
+    "empleados":32
+  },
+  {
+    "sucursal_id":617,
+    "sucursal":"Sucursal 0617",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0617",
+    "empleados":40
+  },
+  {
+    "sucursal_id":618,
+    "sucursal":"Sucursal 0618",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0618",
+    "empleados":11
+  },
+  {
+    "sucursal_id":619,
+    "sucursal":"Sucursal 0619",
+    "ciudad":"García",
+    "gerente":"Gerente 0619",
+    "empleados":39
+  },
+  {
+    "sucursal_id":620,
+    "sucursal":"Sucursal 0620",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0620",
+    "empleados":24
+  },
+  {
+    "sucursal_id":621,
+    "sucursal":"Sucursal 0621",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0621",
+    "empleados":18
+  },
+  {
+    "sucursal_id":622,
+    "sucursal":"Sucursal 0622",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0622",
+    "empleados":54
+  },
+  {
+    "sucursal_id":623,
+    "sucursal":"Sucursal 0623",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0623",
+    "empleados":54
+  },
+  {
+    "sucursal_id":624,
+    "sucursal":"Sucursal 0624",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0624",
+    "empleados":34
+  },
+  {
+    "sucursal_id":625,
+    "sucursal":"Sucursal 0625",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0625",
+    "empleados":5
+  },
+  {
+    "sucursal_id":626,
+    "sucursal":"Sucursal 0626",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0626",
+    "empleados":42
+  },
+  {
+    "sucursal_id":627,
+    "sucursal":"Sucursal 0627",
+    "ciudad":"García",
+    "gerente":"Gerente 0627",
+    "empleados":45
+  },
+  {
+    "sucursal_id":628,
+    "sucursal":"Sucursal 0628",
+    "ciudad":"García",
+    "gerente":"Gerente 0628",
+    "empleados":29
+  },
+  {
+    "sucursal_id":629,
+    "sucursal":"Sucursal 0629",
+    "ciudad":"García",
+    "gerente":"Gerente 0629",
+    "empleados":38
+  },
+  {
+    "sucursal_id":630,
+    "sucursal":"Sucursal 0630",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0630",
+    "empleados":12
+  },
+  {
+    "sucursal_id":631,
+    "sucursal":"Sucursal 0631",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0631",
+    "empleados":24
+  },
+  {
+    "sucursal_id":632,
+    "sucursal":"Sucursal 0632",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0632",
+    "empleados":34
+  },
+  {
+    "sucursal_id":633,
+    "sucursal":"Sucursal 0633",
+    "ciudad":"García",
+    "gerente":"Gerente 0633",
+    "empleados":8
+  },
+  {
+    "sucursal_id":634,
+    "sucursal":"Sucursal 0634",
+    "ciudad":"García",
+    "gerente":"Gerente 0634",
+    "empleados":25
+  },
+  {
+    "sucursal_id":635,
+    "sucursal":"Sucursal 0635",
+    "ciudad":"García",
+    "gerente":"Gerente 0635",
+    "empleados":31
+  },
+  {
+    "sucursal_id":636,
+    "sucursal":"Sucursal 0636",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0636",
+    "empleados":14
+  },
+  {
+    "sucursal_id":637,
+    "sucursal":"Sucursal 0637",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0637",
+    "empleados":27
+  },
+  {
+    "sucursal_id":638,
+    "sucursal":"Sucursal 0638",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0638",
+    "empleados":37
+  },
+  {
+    "sucursal_id":639,
+    "sucursal":"Sucursal 0639",
+    "ciudad":"García",
+    "gerente":"Gerente 0639",
+    "empleados":15
+  },
+  {
+    "sucursal_id":640,
+    "sucursal":"Sucursal 0640",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0640",
+    "empleados":45
+  },
+  {
+    "sucursal_id":641,
+    "sucursal":"Sucursal 0641",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0641",
+    "empleados":23
+  },
+  {
+    "sucursal_id":642,
+    "sucursal":"Sucursal 0642",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0642",
+    "empleados":15
+  },
+  {
+    "sucursal_id":643,
+    "sucursal":"Sucursal 0643",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0643",
+    "empleados":8
+  },
+  {
+    "sucursal_id":644,
+    "sucursal":"Sucursal 0644",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0644",
+    "empleados":27
+  },
+  {
+    "sucursal_id":645,
+    "sucursal":"Sucursal 0645",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0645",
+    "empleados":9
+  },
+  {
+    "sucursal_id":646,
+    "sucursal":"Sucursal 0646",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0646",
+    "empleados":57
+  },
+  {
+    "sucursal_id":647,
+    "sucursal":"Sucursal 0647",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0647",
+    "empleados":53
+  },
+  {
+    "sucursal_id":648,
+    "sucursal":"Sucursal 0648",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0648",
+    "empleados":54
+  },
+  {
+    "sucursal_id":649,
+    "sucursal":"Sucursal 0649",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0649",
+    "empleados":9
+  },
+  {
+    "sucursal_id":650,
+    "sucursal":"Sucursal 0650",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0650",
+    "empleados":22
+  },
+  {
+    "sucursal_id":651,
+    "sucursal":"Sucursal 0651",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0651",
+    "empleados":21
+  },
+  {
+    "sucursal_id":652,
+    "sucursal":"Sucursal 0652",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0652",
+    "empleados":7
+  },
+  {
+    "sucursal_id":653,
+    "sucursal":"Sucursal 0653",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0653",
+    "empleados":47
+  },
+  {
+    "sucursal_id":654,
+    "sucursal":"Sucursal 0654",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0654",
+    "empleados":53
+  },
+  {
+    "sucursal_id":655,
+    "sucursal":"Sucursal 0655",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0655",
+    "empleados":12
+  },
+  {
+    "sucursal_id":656,
+    "sucursal":"Sucursal 0656",
+    "ciudad":"García",
+    "gerente":"Gerente 0656",
+    "empleados":44
+  },
+  {
+    "sucursal_id":657,
+    "sucursal":"Sucursal 0657",
+    "ciudad":"García",
+    "gerente":"Gerente 0657",
+    "empleados":27
+  },
+  {
+    "sucursal_id":658,
+    "sucursal":"Sucursal 0658",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0658",
+    "empleados":27
+  },
+  {
+    "sucursal_id":659,
+    "sucursal":"Sucursal 0659",
+    "ciudad":"García",
+    "gerente":"Gerente 0659",
+    "empleados":6
+  },
+  {
+    "sucursal_id":660,
+    "sucursal":"Sucursal 0660",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0660",
+    "empleados":43
+  },
+  {
+    "sucursal_id":661,
+    "sucursal":"Sucursal 0661",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0661",
+    "empleados":25
+  },
+  {
+    "sucursal_id":662,
+    "sucursal":"Sucursal 0662",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0662",
+    "empleados":56
+  },
+  {
+    "sucursal_id":663,
+    "sucursal":"Sucursal 0663",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0663",
+    "empleados":28
+  },
+  {
+    "sucursal_id":664,
+    "sucursal":"Sucursal 0664",
+    "ciudad":"García",
+    "gerente":"Gerente 0664",
+    "empleados":57
+  },
+  {
+    "sucursal_id":665,
+    "sucursal":"Sucursal 0665",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0665",
+    "empleados":42
+  },
+  {
+    "sucursal_id":666,
+    "sucursal":"Sucursal 0666",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0666",
+    "empleados":24
+  },
+  {
+    "sucursal_id":667,
+    "sucursal":"Sucursal 0667",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0667",
+    "empleados":54
+  },
+  {
+    "sucursal_id":668,
+    "sucursal":"Sucursal 0668",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0668",
+    "empleados":43
+  },
+  {
+    "sucursal_id":669,
+    "sucursal":"Sucursal 0669",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0669",
+    "empleados":54
+  },
+  {
+    "sucursal_id":670,
+    "sucursal":"Sucursal 0670",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0670",
+    "empleados":31
+  },
+  {
+    "sucursal_id":671,
+    "sucursal":"Sucursal 0671",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0671",
+    "empleados":48
+  },
+  {
+    "sucursal_id":672,
+    "sucursal":"Sucursal 0672",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0672",
+    "empleados":43
+  },
+  {
+    "sucursal_id":673,
+    "sucursal":"Sucursal 0673",
+    "ciudad":"García",
+    "gerente":"Gerente 0673",
+    "empleados":11
+  },
+  {
+    "sucursal_id":674,
+    "sucursal":"Sucursal 0674",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0674",
+    "empleados":37
+  },
+  {
+    "sucursal_id":675,
+    "sucursal":"Sucursal 0675",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0675",
+    "empleados":33
+  },
+  {
+    "sucursal_id":676,
+    "sucursal":"Sucursal 0676",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0676",
+    "empleados":14
+  },
+  {
+    "sucursal_id":677,
+    "sucursal":"Sucursal 0677",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0677",
+    "empleados":14
+  },
+  {
+    "sucursal_id":678,
+    "sucursal":"Sucursal 0678",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0678",
+    "empleados":16
+  },
+  {
+    "sucursal_id":679,
+    "sucursal":"Sucursal 0679",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0679",
+    "empleados":7
+  },
+  {
+    "sucursal_id":680,
+    "sucursal":"Sucursal 0680",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0680",
+    "empleados":7
+  },
+  {
+    "sucursal_id":681,
+    "sucursal":"Sucursal 0681",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0681",
+    "empleados":17
+  },
+  {
+    "sucursal_id":682,
+    "sucursal":"Sucursal 0682",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0682",
+    "empleados":49
+  },
+  {
+    "sucursal_id":683,
+    "sucursal":"Sucursal 0683",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0683",
+    "empleados":35
+  },
+  {
+    "sucursal_id":684,
+    "sucursal":"Sucursal 0684",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0684",
+    "empleados":31
+  },
+  {
+    "sucursal_id":685,
+    "sucursal":"Sucursal 0685",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0685",
+    "empleados":10
+  },
+  {
+    "sucursal_id":686,
+    "sucursal":"Sucursal 0686",
+    "ciudad":"García",
+    "gerente":"Gerente 0686",
+    "empleados":31
+  },
+  {
+    "sucursal_id":687,
+    "sucursal":"Sucursal 0687",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0687",
+    "empleados":39
+  },
+  {
+    "sucursal_id":688,
+    "sucursal":"Sucursal 0688",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0688",
+    "empleados":51
+  },
+  {
+    "sucursal_id":689,
+    "sucursal":"Sucursal 0689",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0689",
+    "empleados":13
+  },
+  {
+    "sucursal_id":690,
+    "sucursal":"Sucursal 0690",
+    "ciudad":"García",
+    "gerente":"Gerente 0690",
+    "empleados":57
+  },
+  {
+    "sucursal_id":691,
+    "sucursal":"Sucursal 0691",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0691",
+    "empleados":10
+  },
+  {
+    "sucursal_id":692,
+    "sucursal":"Sucursal 0692",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0692",
+    "empleados":10
+  },
+  {
+    "sucursal_id":693,
+    "sucursal":"Sucursal 0693",
+    "ciudad":"García",
+    "gerente":"Gerente 0693",
+    "empleados":44
+  },
+  {
+    "sucursal_id":694,
+    "sucursal":"Sucursal 0694",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0694",
+    "empleados":30
+  },
+  {
+    "sucursal_id":695,
+    "sucursal":"Sucursal 0695",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0695",
+    "empleados":47
+  },
+  {
+    "sucursal_id":696,
+    "sucursal":"Sucursal 0696",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0696",
+    "empleados":23
+  },
+  {
+    "sucursal_id":697,
+    "sucursal":"Sucursal 0697",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0697",
+    "empleados":20
+  },
+  {
+    "sucursal_id":698,
+    "sucursal":"Sucursal 0698",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0698",
+    "empleados":45
+  },
+  {
+    "sucursal_id":699,
+    "sucursal":"Sucursal 0699",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0699",
+    "empleados":27
+  },
+  {
+    "sucursal_id":700,
+    "sucursal":"Sucursal 0700",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0700",
+    "empleados":15
+  },
+  {
+    "sucursal_id":701,
+    "sucursal":"Sucursal 0701",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0701",
+    "empleados":20
+  },
+  {
+    "sucursal_id":702,
+    "sucursal":"Sucursal 0702",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0702",
+    "empleados":33
+  },
+  {
+    "sucursal_id":703,
+    "sucursal":"Sucursal 0703",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0703",
+    "empleados":42
+  },
+  {
+    "sucursal_id":704,
+    "sucursal":"Sucursal 0704",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0704",
+    "empleados":53
+  },
+  {
+    "sucursal_id":705,
+    "sucursal":"Sucursal 0705",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0705",
+    "empleados":52
+  },
+  {
+    "sucursal_id":706,
+    "sucursal":"Sucursal 0706",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0706",
+    "empleados":24
+  },
+  {
+    "sucursal_id":707,
+    "sucursal":"Sucursal 0707",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0707",
+    "empleados":25
+  },
+  {
+    "sucursal_id":708,
+    "sucursal":"Sucursal 0708",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0708",
+    "empleados":32
+  },
+  {
+    "sucursal_id":709,
+    "sucursal":"Sucursal 0709",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0709",
+    "empleados":54
+  },
+  {
+    "sucursal_id":710,
+    "sucursal":"Sucursal 0710",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0710",
+    "empleados":37
+  },
+  {
+    "sucursal_id":711,
+    "sucursal":"Sucursal 0711",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0711",
+    "empleados":54
+  },
+  {
+    "sucursal_id":712,
+    "sucursal":"Sucursal 0712",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0712",
+    "empleados":44
+  },
+  {
+    "sucursal_id":713,
+    "sucursal":"Sucursal 0713",
+    "ciudad":"García",
+    "gerente":"Gerente 0713",
+    "empleados":30
+  },
+  {
+    "sucursal_id":714,
+    "sucursal":"Sucursal 0714",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0714",
+    "empleados":58
+  },
+  {
+    "sucursal_id":715,
+    "sucursal":"Sucursal 0715",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0715",
+    "empleados":14
+  },
+  {
+    "sucursal_id":716,
+    "sucursal":"Sucursal 0716",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0716",
+    "empleados":38
+  },
+  {
+    "sucursal_id":717,
+    "sucursal":"Sucursal 0717",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0717",
+    "empleados":13
+  },
+  {
+    "sucursal_id":718,
+    "sucursal":"Sucursal 0718",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0718",
+    "empleados":40
+  },
+  {
+    "sucursal_id":719,
+    "sucursal":"Sucursal 0719",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0719",
+    "empleados":15
+  },
+  {
+    "sucursal_id":720,
+    "sucursal":"Sucursal 0720",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0720",
+    "empleados":14
+  },
+  {
+    "sucursal_id":721,
+    "sucursal":"Sucursal 0721",
+    "ciudad":"García",
+    "gerente":"Gerente 0721",
+    "empleados":50
+  },
+  {
+    "sucursal_id":722,
+    "sucursal":"Sucursal 0722",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0722",
+    "empleados":11
+  },
+  {
+    "sucursal_id":723,
+    "sucursal":"Sucursal 0723",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0723",
+    "empleados":55
+  },
+  {
+    "sucursal_id":724,
+    "sucursal":"Sucursal 0724",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0724",
+    "empleados":42
+  },
+  {
+    "sucursal_id":725,
+    "sucursal":"Sucursal 0725",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0725",
+    "empleados":20
+  },
+  {
+    "sucursal_id":726,
+    "sucursal":"Sucursal 0726",
+    "ciudad":"García",
+    "gerente":"Gerente 0726",
+    "empleados":55
+  },
+  {
+    "sucursal_id":727,
+    "sucursal":"Sucursal 0727",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0727",
+    "empleados":30
+  },
+  {
+    "sucursal_id":728,
+    "sucursal":"Sucursal 0728",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0728",
+    "empleados":36
+  },
+  {
+    "sucursal_id":729,
+    "sucursal":"Sucursal 0729",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0729",
+    "empleados":35
+  },
+  {
+    "sucursal_id":730,
+    "sucursal":"Sucursal 0730",
+    "ciudad":"García",
+    "gerente":"Gerente 0730",
+    "empleados":55
+  },
+  {
+    "sucursal_id":731,
+    "sucursal":"Sucursal 0731",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0731",
+    "empleados":36
+  },
+  {
+    "sucursal_id":732,
+    "sucursal":"Sucursal 0732",
+    "ciudad":"García",
+    "gerente":"Gerente 0732",
+    "empleados":49
+  },
+  {
+    "sucursal_id":733,
+    "sucursal":"Sucursal 0733",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0733",
+    "empleados":16
+  },
+  {
+    "sucursal_id":734,
+    "sucursal":"Sucursal 0734",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0734",
+    "empleados":31
+  },
+  {
+    "sucursal_id":735,
+    "sucursal":"Sucursal 0735",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0735",
+    "empleados":26
+  },
+  {
+    "sucursal_id":736,
+    "sucursal":"Sucursal 0736",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0736",
+    "empleados":19
+  },
+  {
+    "sucursal_id":737,
+    "sucursal":"Sucursal 0737",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0737",
+    "empleados":12
+  },
+  {
+    "sucursal_id":738,
+    "sucursal":"Sucursal 0738",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0738",
+    "empleados":8
+  },
+  {
+    "sucursal_id":739,
+    "sucursal":"Sucursal 0739",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0739",
+    "empleados":56
+  },
+  {
+    "sucursal_id":740,
+    "sucursal":"Sucursal 0740",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0740",
+    "empleados":12
+  },
+  {
+    "sucursal_id":741,
+    "sucursal":"Sucursal 0741",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0741",
+    "empleados":27
+  },
+  {
+    "sucursal_id":742,
+    "sucursal":"Sucursal 0742",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0742",
+    "empleados":57
+  },
+  {
+    "sucursal_id":743,
+    "sucursal":"Sucursal 0743",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0743",
+    "empleados":20
+  },
+  {
+    "sucursal_id":744,
+    "sucursal":"Sucursal 0744",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0744",
+    "empleados":52
+  },
+  {
+    "sucursal_id":745,
+    "sucursal":"Sucursal 0745",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0745",
+    "empleados":38
+  },
+  {
+    "sucursal_id":746,
+    "sucursal":"Sucursal 0746",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0746",
+    "empleados":26
+  },
+  {
+    "sucursal_id":747,
+    "sucursal":"Sucursal 0747",
+    "ciudad":"García",
+    "gerente":"Gerente 0747",
+    "empleados":53
+  },
+  {
+    "sucursal_id":748,
+    "sucursal":"Sucursal 0748",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0748",
+    "empleados":27
+  },
+  {
+    "sucursal_id":749,
+    "sucursal":"Sucursal 0749",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0749",
+    "empleados":9
+  },
+  {
+    "sucursal_id":750,
+    "sucursal":"Sucursal 0750",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0750",
+    "empleados":41
+  },
+  {
+    "sucursal_id":751,
+    "sucursal":"Sucursal 0751",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0751",
+    "empleados":48
+  },
+  {
+    "sucursal_id":752,
+    "sucursal":"Sucursal 0752",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0752",
+    "empleados":11
+  },
+  {
+    "sucursal_id":753,
+    "sucursal":"Sucursal 0753",
+    "ciudad":"García",
+    "gerente":"Gerente 0753",
+    "empleados":41
+  },
+  {
+    "sucursal_id":754,
+    "sucursal":"Sucursal 0754",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0754",
+    "empleados":30
+  },
+  {
+    "sucursal_id":755,
+    "sucursal":"Sucursal 0755",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0755",
+    "empleados":32
+  },
+  {
+    "sucursal_id":756,
+    "sucursal":"Sucursal 0756",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0756",
+    "empleados":8
+  },
+  {
+    "sucursal_id":757,
+    "sucursal":"Sucursal 0757",
+    "ciudad":"García",
+    "gerente":"Gerente 0757",
+    "empleados":53
+  },
+  {
+    "sucursal_id":758,
+    "sucursal":"Sucursal 0758",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0758",
+    "empleados":36
+  },
+  {
+    "sucursal_id":759,
+    "sucursal":"Sucursal 0759",
+    "ciudad":"García",
+    "gerente":"Gerente 0759",
+    "empleados":42
+  },
+  {
+    "sucursal_id":760,
+    "sucursal":"Sucursal 0760",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0760",
+    "empleados":50
+  },
+  {
+    "sucursal_id":761,
+    "sucursal":"Sucursal 0761",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0761",
+    "empleados":13
+  },
+  {
+    "sucursal_id":762,
+    "sucursal":"Sucursal 0762",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0762",
+    "empleados":40
+  },
+  {
+    "sucursal_id":763,
+    "sucursal":"Sucursal 0763",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0763",
+    "empleados":30
+  },
+  {
+    "sucursal_id":764,
+    "sucursal":"Sucursal 0764",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0764",
+    "empleados":15
+  },
+  {
+    "sucursal_id":765,
+    "sucursal":"Sucursal 0765",
+    "ciudad":"García",
+    "gerente":"Gerente 0765",
+    "empleados":24
+  },
+  {
+    "sucursal_id":766,
+    "sucursal":"Sucursal 0766",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0766",
+    "empleados":57
+  },
+  {
+    "sucursal_id":767,
+    "sucursal":"Sucursal 0767",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0767",
+    "empleados":52
+  },
+  {
+    "sucursal_id":768,
+    "sucursal":"Sucursal 0768",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0768",
+    "empleados":52
+  },
+  {
+    "sucursal_id":769,
+    "sucursal":"Sucursal 0769",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0769",
+    "empleados":52
+  },
+  {
+    "sucursal_id":770,
+    "sucursal":"Sucursal 0770",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0770",
+    "empleados":42
+  },
+  {
+    "sucursal_id":771,
+    "sucursal":"Sucursal 0771",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0771",
+    "empleados":19
+  },
+  {
+    "sucursal_id":772,
+    "sucursal":"Sucursal 0772",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0772",
+    "empleados":39
+  },
+  {
+    "sucursal_id":773,
+    "sucursal":"Sucursal 0773",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0773",
+    "empleados":13
+  },
+  {
+    "sucursal_id":774,
+    "sucursal":"Sucursal 0774",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0774",
+    "empleados":37
+  },
+  {
+    "sucursal_id":775,
+    "sucursal":"Sucursal 0775",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0775",
+    "empleados":15
+  },
+  {
+    "sucursal_id":776,
+    "sucursal":"Sucursal 0776",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0776",
+    "empleados":26
+  },
+  {
+    "sucursal_id":777,
+    "sucursal":"Sucursal 0777",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0777",
+    "empleados":10
+  },
+  {
+    "sucursal_id":778,
+    "sucursal":"Sucursal 0778",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0778",
+    "empleados":41
+  },
+  {
+    "sucursal_id":779,
+    "sucursal":"Sucursal 0779",
+    "ciudad":"García",
+    "gerente":"Gerente 0779",
+    "empleados":54
+  },
+  {
+    "sucursal_id":780,
+    "sucursal":"Sucursal 0780",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0780",
+    "empleados":25
+  },
+  {
+    "sucursal_id":781,
+    "sucursal":"Sucursal 0781",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0781",
+    "empleados":16
+  },
+  {
+    "sucursal_id":782,
+    "sucursal":"Sucursal 0782",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0782",
+    "empleados":11
+  },
+  {
+    "sucursal_id":783,
+    "sucursal":"Sucursal 0783",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0783",
+    "empleados":6
+  },
+  {
+    "sucursal_id":784,
+    "sucursal":"Sucursal 0784",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0784",
+    "empleados":43
+  },
+  {
+    "sucursal_id":785,
+    "sucursal":"Sucursal 0785",
+    "ciudad":"García",
+    "gerente":"Gerente 0785",
+    "empleados":45
+  },
+  {
+    "sucursal_id":786,
+    "sucursal":"Sucursal 0786",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0786",
+    "empleados":28
+  },
+  {
+    "sucursal_id":787,
+    "sucursal":"Sucursal 0787",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0787",
+    "empleados":30
+  },
+  {
+    "sucursal_id":788,
+    "sucursal":"Sucursal 0788",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0788",
+    "empleados":29
+  },
+  {
+    "sucursal_id":789,
+    "sucursal":"Sucursal 0789",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0789",
+    "empleados":24
+  },
+  {
+    "sucursal_id":790,
+    "sucursal":"Sucursal 0790",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0790",
+    "empleados":44
+  },
+  {
+    "sucursal_id":791,
+    "sucursal":"Sucursal 0791",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0791",
+    "empleados":45
+  },
+  {
+    "sucursal_id":792,
+    "sucursal":"Sucursal 0792",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0792",
+    "empleados":46
+  },
+  {
+    "sucursal_id":793,
+    "sucursal":"Sucursal 0793",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0793",
+    "empleados":48
+  },
+  {
+    "sucursal_id":794,
+    "sucursal":"Sucursal 0794",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0794",
+    "empleados":6
+  },
+  {
+    "sucursal_id":795,
+    "sucursal":"Sucursal 0795",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0795",
+    "empleados":46
+  },
+  {
+    "sucursal_id":796,
+    "sucursal":"Sucursal 0796",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0796",
+    "empleados":39
+  },
+  {
+    "sucursal_id":797,
+    "sucursal":"Sucursal 0797",
+    "ciudad":"García",
+    "gerente":"Gerente 0797",
+    "empleados":37
+  },
+  {
+    "sucursal_id":798,
+    "sucursal":"Sucursal 0798",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0798",
+    "empleados":21
+  },
+  {
+    "sucursal_id":799,
+    "sucursal":"Sucursal 0799",
+    "ciudad":"García",
+    "gerente":"Gerente 0799",
+    "empleados":26
+  },
+  {
+    "sucursal_id":800,
+    "sucursal":"Sucursal 0800",
+    "ciudad":"García",
+    "gerente":"Gerente 0800",
+    "empleados":5
+  },
+  {
+    "sucursal_id":801,
+    "sucursal":"Sucursal 0801",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0801",
+    "empleados":41
+  },
+  {
+    "sucursal_id":802,
+    "sucursal":"Sucursal 0802",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0802",
+    "empleados":34
+  },
+  {
+    "sucursal_id":803,
+    "sucursal":"Sucursal 0803",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0803",
+    "empleados":50
+  },
+  {
+    "sucursal_id":804,
+    "sucursal":"Sucursal 0804",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0804",
+    "empleados":10
+  },
+  {
+    "sucursal_id":805,
+    "sucursal":"Sucursal 0805",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0805",
+    "empleados":45
+  },
+  {
+    "sucursal_id":806,
+    "sucursal":"Sucursal 0806",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0806",
+    "empleados":58
+  },
+  {
+    "sucursal_id":807,
+    "sucursal":"Sucursal 0807",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0807",
+    "empleados":18
+  },
+  {
+    "sucursal_id":808,
+    "sucursal":"Sucursal 0808",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0808",
+    "empleados":40
+  },
+  {
+    "sucursal_id":809,
+    "sucursal":"Sucursal 0809",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0809",
+    "empleados":37
+  },
+  {
+    "sucursal_id":810,
+    "sucursal":"Sucursal 0810",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0810",
+    "empleados":42
+  },
+  {
+    "sucursal_id":811,
+    "sucursal":"Sucursal 0811",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0811",
+    "empleados":43
+  },
+  {
+    "sucursal_id":812,
+    "sucursal":"Sucursal 0812",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0812",
+    "empleados":57
+  },
+  {
+    "sucursal_id":813,
+    "sucursal":"Sucursal 0813",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0813",
+    "empleados":10
+  },
+  {
+    "sucursal_id":814,
+    "sucursal":"Sucursal 0814",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0814",
+    "empleados":30
+  },
+  {
+    "sucursal_id":815,
+    "sucursal":"Sucursal 0815",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0815",
+    "empleados":28
+  },
+  {
+    "sucursal_id":816,
+    "sucursal":"Sucursal 0816",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0816",
+    "empleados":37
+  },
+  {
+    "sucursal_id":817,
+    "sucursal":"Sucursal 0817",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0817",
+    "empleados":12
+  },
+  {
+    "sucursal_id":818,
+    "sucursal":"Sucursal 0818",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0818",
+    "empleados":48
+  },
+  {
+    "sucursal_id":819,
+    "sucursal":"Sucursal 0819",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0819",
+    "empleados":47
+  },
+  {
+    "sucursal_id":820,
+    "sucursal":"Sucursal 0820",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0820",
+    "empleados":38
+  },
+  {
+    "sucursal_id":821,
+    "sucursal":"Sucursal 0821",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0821",
+    "empleados":38
+  },
+  {
+    "sucursal_id":822,
+    "sucursal":"Sucursal 0822",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0822",
+    "empleados":28
+  },
+  {
+    "sucursal_id":823,
+    "sucursal":"Sucursal 0823",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0823",
+    "empleados":6
+  },
+  {
+    "sucursal_id":824,
+    "sucursal":"Sucursal 0824",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0824",
+    "empleados":12
+  },
+  {
+    "sucursal_id":825,
+    "sucursal":"Sucursal 0825",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0825",
+    "empleados":57
+  },
+  {
+    "sucursal_id":826,
+    "sucursal":"Sucursal 0826",
+    "ciudad":"García",
+    "gerente":"Gerente 0826",
+    "empleados":29
+  },
+  {
+    "sucursal_id":827,
+    "sucursal":"Sucursal 0827",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0827",
+    "empleados":34
+  },
+  {
+    "sucursal_id":828,
+    "sucursal":"Sucursal 0828",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0828",
+    "empleados":36
+  },
+  {
+    "sucursal_id":829,
+    "sucursal":"Sucursal 0829",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0829",
+    "empleados":34
+  },
+  {
+    "sucursal_id":830,
+    "sucursal":"Sucursal 0830",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0830",
+    "empleados":11
+  },
+  {
+    "sucursal_id":831,
+    "sucursal":"Sucursal 0831",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0831",
+    "empleados":52
+  },
+  {
+    "sucursal_id":832,
+    "sucursal":"Sucursal 0832",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0832",
+    "empleados":28
+  },
+  {
+    "sucursal_id":833,
+    "sucursal":"Sucursal 0833",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0833",
+    "empleados":58
+  },
+  {
+    "sucursal_id":834,
+    "sucursal":"Sucursal 0834",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0834",
+    "empleados":13
+  },
+  {
+    "sucursal_id":835,
+    "sucursal":"Sucursal 0835",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0835",
+    "empleados":20
+  },
+  {
+    "sucursal_id":836,
+    "sucursal":"Sucursal 0836",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0836",
+    "empleados":6
+  },
+  {
+    "sucursal_id":837,
+    "sucursal":"Sucursal 0837",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0837",
+    "empleados":39
+  },
+  {
+    "sucursal_id":838,
+    "sucursal":"Sucursal 0838",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0838",
+    "empleados":38
+  },
+  {
+    "sucursal_id":839,
+    "sucursal":"Sucursal 0839",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0839",
+    "empleados":26
+  },
+  {
+    "sucursal_id":840,
+    "sucursal":"Sucursal 0840",
+    "ciudad":"García",
+    "gerente":"Gerente 0840",
+    "empleados":23
+  },
+  {
+    "sucursal_id":841,
+    "sucursal":"Sucursal 0841",
+    "ciudad":"García",
+    "gerente":"Gerente 0841",
+    "empleados":53
+  },
+  {
+    "sucursal_id":842,
+    "sucursal":"Sucursal 0842",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0842",
+    "empleados":56
+  },
+  {
+    "sucursal_id":843,
+    "sucursal":"Sucursal 0843",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0843",
+    "empleados":25
+  },
+  {
+    "sucursal_id":844,
+    "sucursal":"Sucursal 0844",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0844",
+    "empleados":16
+  },
+  {
+    "sucursal_id":845,
+    "sucursal":"Sucursal 0845",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0845",
+    "empleados":15
+  },
+  {
+    "sucursal_id":846,
+    "sucursal":"Sucursal 0846",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0846",
+    "empleados":56
+  },
+  {
+    "sucursal_id":847,
+    "sucursal":"Sucursal 0847",
+    "ciudad":"García",
+    "gerente":"Gerente 0847",
+    "empleados":58
+  },
+  {
+    "sucursal_id":848,
+    "sucursal":"Sucursal 0848",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0848",
+    "empleados":23
+  },
+  {
+    "sucursal_id":849,
+    "sucursal":"Sucursal 0849",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0849",
+    "empleados":10
+  },
+  {
+    "sucursal_id":850,
+    "sucursal":"Sucursal 0850",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0850",
+    "empleados":46
+  },
+  {
+    "sucursal_id":851,
+    "sucursal":"Sucursal 0851",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0851",
+    "empleados":18
+  },
+  {
+    "sucursal_id":852,
+    "sucursal":"Sucursal 0852",
+    "ciudad":"García",
+    "gerente":"Gerente 0852",
+    "empleados":37
+  },
+  {
+    "sucursal_id":853,
+    "sucursal":"Sucursal 0853",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0853",
+    "empleados":51
+  },
+  {
+    "sucursal_id":854,
+    "sucursal":"Sucursal 0854",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0854",
+    "empleados":42
+  },
+  {
+    "sucursal_id":855,
+    "sucursal":"Sucursal 0855",
+    "ciudad":"García",
+    "gerente":"Gerente 0855",
+    "empleados":17
+  },
+  {
+    "sucursal_id":856,
+    "sucursal":"Sucursal 0856",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0856",
+    "empleados":30
+  },
+  {
+    "sucursal_id":857,
+    "sucursal":"Sucursal 0857",
+    "ciudad":"García",
+    "gerente":"Gerente 0857",
+    "empleados":18
+  },
+  {
+    "sucursal_id":858,
+    "sucursal":"Sucursal 0858",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0858",
+    "empleados":49
+  },
+  {
+    "sucursal_id":859,
+    "sucursal":"Sucursal 0859",
+    "ciudad":"García",
+    "gerente":"Gerente 0859",
+    "empleados":28
+  },
+  {
+    "sucursal_id":860,
+    "sucursal":"Sucursal 0860",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0860",
+    "empleados":52
+  },
+  {
+    "sucursal_id":861,
+    "sucursal":"Sucursal 0861",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0861",
+    "empleados":5
+  },
+  {
+    "sucursal_id":862,
+    "sucursal":"Sucursal 0862",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0862",
+    "empleados":50
+  },
+  {
+    "sucursal_id":863,
+    "sucursal":"Sucursal 0863",
+    "ciudad":"García",
+    "gerente":"Gerente 0863",
+    "empleados":49
+  },
+  {
+    "sucursal_id":864,
+    "sucursal":"Sucursal 0864",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0864",
+    "empleados":59
+  },
+  {
+    "sucursal_id":865,
+    "sucursal":"Sucursal 0865",
+    "ciudad":"García",
+    "gerente":"Gerente 0865",
+    "empleados":34
+  },
+  {
+    "sucursal_id":866,
+    "sucursal":"Sucursal 0866",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0866",
+    "empleados":14
+  },
+  {
+    "sucursal_id":867,
+    "sucursal":"Sucursal 0867",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0867",
+    "empleados":14
+  },
+  {
+    "sucursal_id":868,
+    "sucursal":"Sucursal 0868",
+    "ciudad":"García",
+    "gerente":"Gerente 0868",
+    "empleados":32
+  },
+  {
+    "sucursal_id":869,
+    "sucursal":"Sucursal 0869",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0869",
+    "empleados":8
+  },
+  {
+    "sucursal_id":870,
+    "sucursal":"Sucursal 0870",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0870",
+    "empleados":18
+  },
+  {
+    "sucursal_id":871,
+    "sucursal":"Sucursal 0871",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0871",
+    "empleados":16
+  },
+  {
+    "sucursal_id":872,
+    "sucursal":"Sucursal 0872",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0872",
+    "empleados":58
+  },
+  {
+    "sucursal_id":873,
+    "sucursal":"Sucursal 0873",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0873",
+    "empleados":42
+  },
+  {
+    "sucursal_id":874,
+    "sucursal":"Sucursal 0874",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0874",
+    "empleados":51
+  },
+  {
+    "sucursal_id":875,
+    "sucursal":"Sucursal 0875",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0875",
+    "empleados":41
+  },
+  {
+    "sucursal_id":876,
+    "sucursal":"Sucursal 0876",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0876",
+    "empleados":14
+  },
+  {
+    "sucursal_id":877,
+    "sucursal":"Sucursal 0877",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0877",
+    "empleados":45
+  },
+  {
+    "sucursal_id":878,
+    "sucursal":"Sucursal 0878",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0878",
+    "empleados":31
+  },
+  {
+    "sucursal_id":879,
+    "sucursal":"Sucursal 0879",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0879",
+    "empleados":46
+  },
+  {
+    "sucursal_id":880,
+    "sucursal":"Sucursal 0880",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0880",
+    "empleados":16
+  },
+  {
+    "sucursal_id":881,
+    "sucursal":"Sucursal 0881",
+    "ciudad":"García",
+    "gerente":"Gerente 0881",
+    "empleados":26
+  },
+  {
+    "sucursal_id":882,
+    "sucursal":"Sucursal 0882",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0882",
+    "empleados":8
+  },
+  {
+    "sucursal_id":883,
+    "sucursal":"Sucursal 0883",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0883",
+    "empleados":33
+  },
+  {
+    "sucursal_id":884,
+    "sucursal":"Sucursal 0884",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0884",
+    "empleados":40
+  },
+  {
+    "sucursal_id":885,
+    "sucursal":"Sucursal 0885",
+    "ciudad":"García",
+    "gerente":"Gerente 0885",
+    "empleados":49
+  },
+  {
+    "sucursal_id":886,
+    "sucursal":"Sucursal 0886",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0886",
+    "empleados":18
+  },
+  {
+    "sucursal_id":887,
+    "sucursal":"Sucursal 0887",
+    "ciudad":"García",
+    "gerente":"Gerente 0887",
+    "empleados":16
+  },
+  {
+    "sucursal_id":888,
+    "sucursal":"Sucursal 0888",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0888",
+    "empleados":49
+  },
+  {
+    "sucursal_id":889,
+    "sucursal":"Sucursal 0889",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0889",
+    "empleados":24
+  },
+  {
+    "sucursal_id":890,
+    "sucursal":"Sucursal 0890",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0890",
+    "empleados":49
+  },
+  {
+    "sucursal_id":891,
+    "sucursal":"Sucursal 0891",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0891",
+    "empleados":27
+  },
+  {
+    "sucursal_id":892,
+    "sucursal":"Sucursal 0892",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0892",
+    "empleados":26
+  },
+  {
+    "sucursal_id":893,
+    "sucursal":"Sucursal 0893",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0893",
+    "empleados":38
+  },
+  {
+    "sucursal_id":894,
+    "sucursal":"Sucursal 0894",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0894",
+    "empleados":25
+  },
+  {
+    "sucursal_id":895,
+    "sucursal":"Sucursal 0895",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0895",
+    "empleados":55
+  },
+  {
+    "sucursal_id":896,
+    "sucursal":"Sucursal 0896",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0896",
+    "empleados":13
+  },
+  {
+    "sucursal_id":897,
+    "sucursal":"Sucursal 0897",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0897",
+    "empleados":14
+  },
+  {
+    "sucursal_id":898,
+    "sucursal":"Sucursal 0898",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0898",
+    "empleados":53
+  },
+  {
+    "sucursal_id":899,
+    "sucursal":"Sucursal 0899",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0899",
+    "empleados":14
+  },
+  {
+    "sucursal_id":900,
+    "sucursal":"Sucursal 0900",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0900",
+    "empleados":56
+  },
+  {
+    "sucursal_id":901,
+    "sucursal":"Sucursal 0901",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0901",
+    "empleados":49
+  },
+  {
+    "sucursal_id":902,
+    "sucursal":"Sucursal 0902",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0902",
+    "empleados":56
+  },
+  {
+    "sucursal_id":903,
+    "sucursal":"Sucursal 0903",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0903",
+    "empleados":34
+  },
+  {
+    "sucursal_id":904,
+    "sucursal":"Sucursal 0904",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0904",
+    "empleados":37
+  },
+  {
+    "sucursal_id":905,
+    "sucursal":"Sucursal 0905",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0905",
+    "empleados":6
+  },
+  {
+    "sucursal_id":906,
+    "sucursal":"Sucursal 0906",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0906",
+    "empleados":53
+  },
+  {
+    "sucursal_id":907,
+    "sucursal":"Sucursal 0907",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0907",
+    "empleados":36
+  },
+  {
+    "sucursal_id":908,
+    "sucursal":"Sucursal 0908",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0908",
+    "empleados":49
+  },
+  {
+    "sucursal_id":909,
+    "sucursal":"Sucursal 0909",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0909",
+    "empleados":21
+  },
+  {
+    "sucursal_id":910,
+    "sucursal":"Sucursal 0910",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0910",
+    "empleados":32
+  },
+  {
+    "sucursal_id":911,
+    "sucursal":"Sucursal 0911",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0911",
+    "empleados":49
+  },
+  {
+    "sucursal_id":912,
+    "sucursal":"Sucursal 0912",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0912",
+    "empleados":21
+  },
+  {
+    "sucursal_id":913,
+    "sucursal":"Sucursal 0913",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0913",
+    "empleados":55
+  },
+  {
+    "sucursal_id":914,
+    "sucursal":"Sucursal 0914",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0914",
+    "empleados":18
+  },
+  {
+    "sucursal_id":915,
+    "sucursal":"Sucursal 0915",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0915",
+    "empleados":56
+  },
+  {
+    "sucursal_id":916,
+    "sucursal":"Sucursal 0916",
+    "ciudad":"García",
+    "gerente":"Gerente 0916",
+    "empleados":14
+  },
+  {
+    "sucursal_id":917,
+    "sucursal":"Sucursal 0917",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0917",
+    "empleados":38
+  },
+  {
+    "sucursal_id":918,
+    "sucursal":"Sucursal 0918",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0918",
+    "empleados":18
+  },
+  {
+    "sucursal_id":919,
+    "sucursal":"Sucursal 0919",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0919",
+    "empleados":21
+  },
+  {
+    "sucursal_id":920,
+    "sucursal":"Sucursal 0920",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0920",
+    "empleados":41
+  },
+  {
+    "sucursal_id":921,
+    "sucursal":"Sucursal 0921",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0921",
+    "empleados":26
+  },
+  {
+    "sucursal_id":922,
+    "sucursal":"Sucursal 0922",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0922",
+    "empleados":22
+  },
+  {
+    "sucursal_id":923,
+    "sucursal":"Sucursal 0923",
+    "ciudad":"García",
+    "gerente":"Gerente 0923",
+    "empleados":39
+  },
+  {
+    "sucursal_id":924,
+    "sucursal":"Sucursal 0924",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0924",
+    "empleados":52
+  },
+  {
+    "sucursal_id":925,
+    "sucursal":"Sucursal 0925",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0925",
+    "empleados":55
+  },
+  {
+    "sucursal_id":926,
+    "sucursal":"Sucursal 0926",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0926",
+    "empleados":22
+  },
+  {
+    "sucursal_id":927,
+    "sucursal":"Sucursal 0927",
+    "ciudad":"García",
+    "gerente":"Gerente 0927",
+    "empleados":56
+  },
+  {
+    "sucursal_id":928,
+    "sucursal":"Sucursal 0928",
+    "ciudad":"García",
+    "gerente":"Gerente 0928",
+    "empleados":34
+  },
+  {
+    "sucursal_id":929,
+    "sucursal":"Sucursal 0929",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0929",
+    "empleados":41
+  },
+  {
+    "sucursal_id":930,
+    "sucursal":"Sucursal 0930",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0930",
+    "empleados":44
+  },
+  {
+    "sucursal_id":931,
+    "sucursal":"Sucursal 0931",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0931",
+    "empleados":10
+  },
+  {
+    "sucursal_id":932,
+    "sucursal":"Sucursal 0932",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0932",
+    "empleados":19
+  },
+  {
+    "sucursal_id":933,
+    "sucursal":"Sucursal 0933",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0933",
+    "empleados":39
+  },
+  {
+    "sucursal_id":934,
+    "sucursal":"Sucursal 0934",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0934",
+    "empleados":30
+  },
+  {
+    "sucursal_id":935,
+    "sucursal":"Sucursal 0935",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0935",
+    "empleados":45
+  },
+  {
+    "sucursal_id":936,
+    "sucursal":"Sucursal 0936",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0936",
+    "empleados":31
+  },
+  {
+    "sucursal_id":937,
+    "sucursal":"Sucursal 0937",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0937",
+    "empleados":34
+  },
+  {
+    "sucursal_id":938,
+    "sucursal":"Sucursal 0938",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0938",
+    "empleados":15
+  },
+  {
+    "sucursal_id":939,
+    "sucursal":"Sucursal 0939",
+    "ciudad":"García",
+    "gerente":"Gerente 0939",
+    "empleados":56
+  },
+  {
+    "sucursal_id":940,
+    "sucursal":"Sucursal 0940",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0940",
+    "empleados":28
+  },
+  {
+    "sucursal_id":941,
+    "sucursal":"Sucursal 0941",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0941",
+    "empleados":59
+  },
+  {
+    "sucursal_id":942,
+    "sucursal":"Sucursal 0942",
+    "ciudad":"García",
+    "gerente":"Gerente 0942",
+    "empleados":18
+  },
+  {
+    "sucursal_id":943,
+    "sucursal":"Sucursal 0943",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0943",
+    "empleados":27
+  },
+  {
+    "sucursal_id":944,
+    "sucursal":"Sucursal 0944",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0944",
+    "empleados":13
+  },
+  {
+    "sucursal_id":945,
+    "sucursal":"Sucursal 0945",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0945",
+    "empleados":46
+  },
+  {
+    "sucursal_id":946,
+    "sucursal":"Sucursal 0946",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0946",
+    "empleados":51
+  },
+  {
+    "sucursal_id":947,
+    "sucursal":"Sucursal 0947",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0947",
+    "empleados":22
+  },
+  {
+    "sucursal_id":948,
+    "sucursal":"Sucursal 0948",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0948",
+    "empleados":57
+  },
+  {
+    "sucursal_id":949,
+    "sucursal":"Sucursal 0949",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0949",
+    "empleados":55
+  },
+  {
+    "sucursal_id":950,
+    "sucursal":"Sucursal 0950",
+    "ciudad":"García",
+    "gerente":"Gerente 0950",
+    "empleados":43
+  },
+  {
+    "sucursal_id":951,
+    "sucursal":"Sucursal 0951",
+    "ciudad":"García",
+    "gerente":"Gerente 0951",
+    "empleados":23
+  },
+  {
+    "sucursal_id":952,
+    "sucursal":"Sucursal 0952",
+    "ciudad":"García",
+    "gerente":"Gerente 0952",
+    "empleados":9
+  },
+  {
+    "sucursal_id":953,
+    "sucursal":"Sucursal 0953",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0953",
+    "empleados":57
+  },
+  {
+    "sucursal_id":954,
+    "sucursal":"Sucursal 0954",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0954",
+    "empleados":22
+  },
+  {
+    "sucursal_id":955,
+    "sucursal":"Sucursal 0955",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0955",
+    "empleados":37
+  },
+  {
+    "sucursal_id":956,
+    "sucursal":"Sucursal 0956",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0956",
+    "empleados":48
+  },
+  {
+    "sucursal_id":957,
+    "sucursal":"Sucursal 0957",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0957",
+    "empleados":42
+  },
+  {
+    "sucursal_id":958,
+    "sucursal":"Sucursal 0958",
+    "ciudad":"García",
+    "gerente":"Gerente 0958",
+    "empleados":17
+  },
+  {
+    "sucursal_id":959,
+    "sucursal":"Sucursal 0959",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0959",
+    "empleados":53
+  },
+  {
+    "sucursal_id":960,
+    "sucursal":"Sucursal 0960",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0960",
+    "empleados":13
+  },
+  {
+    "sucursal_id":961,
+    "sucursal":"Sucursal 0961",
+    "ciudad":"García",
+    "gerente":"Gerente 0961",
+    "empleados":30
+  },
+  {
+    "sucursal_id":962,
+    "sucursal":"Sucursal 0962",
+    "ciudad":"García",
+    "gerente":"Gerente 0962",
+    "empleados":57
+  },
+  {
+    "sucursal_id":963,
+    "sucursal":"Sucursal 0963",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0963",
+    "empleados":5
+  },
+  {
+    "sucursal_id":964,
+    "sucursal":"Sucursal 0964",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0964",
+    "empleados":16
+  },
+  {
+    "sucursal_id":965,
+    "sucursal":"Sucursal 0965",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 0965",
+    "empleados":28
+  },
+  {
+    "sucursal_id":966,
+    "sucursal":"Sucursal 0966",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0966",
+    "empleados":5
+  },
+  {
+    "sucursal_id":967,
+    "sucursal":"Sucursal 0967",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0967",
+    "empleados":8
+  },
+  {
+    "sucursal_id":968,
+    "sucursal":"Sucursal 0968",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0968",
+    "empleados":11
+  },
+  {
+    "sucursal_id":969,
+    "sucursal":"Sucursal 0969",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0969",
+    "empleados":56
+  },
+  {
+    "sucursal_id":970,
+    "sucursal":"Sucursal 0970",
+    "ciudad":"García",
+    "gerente":"Gerente 0970",
+    "empleados":32
+  },
+  {
+    "sucursal_id":971,
+    "sucursal":"Sucursal 0971",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0971",
+    "empleados":41
+  },
+  {
+    "sucursal_id":972,
+    "sucursal":"Sucursal 0972",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0972",
+    "empleados":59
+  },
+  {
+    "sucursal_id":973,
+    "sucursal":"Sucursal 0973",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0973",
+    "empleados":56
+  },
+  {
+    "sucursal_id":974,
+    "sucursal":"Sucursal 0974",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0974",
+    "empleados":9
+  },
+  {
+    "sucursal_id":975,
+    "sucursal":"Sucursal 0975",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0975",
+    "empleados":43
+  },
+  {
+    "sucursal_id":976,
+    "sucursal":"Sucursal 0976",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0976",
+    "empleados":36
+  },
+  {
+    "sucursal_id":977,
+    "sucursal":"Sucursal 0977",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0977",
+    "empleados":53
+  },
+  {
+    "sucursal_id":978,
+    "sucursal":"Sucursal 0978",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0978",
+    "empleados":35
+  },
+  {
+    "sucursal_id":979,
+    "sucursal":"Sucursal 0979",
+    "ciudad":"García",
+    "gerente":"Gerente 0979",
+    "empleados":48
+  },
+  {
+    "sucursal_id":980,
+    "sucursal":"Sucursal 0980",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0980",
+    "empleados":19
+  },
+  {
+    "sucursal_id":981,
+    "sucursal":"Sucursal 0981",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0981",
+    "empleados":7
+  },
+  {
+    "sucursal_id":982,
+    "sucursal":"Sucursal 0982",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0982",
+    "empleados":53
+  },
+  {
+    "sucursal_id":983,
+    "sucursal":"Sucursal 0983",
+    "ciudad":"Escobedo",
+    "gerente":"Gerente 0983",
+    "empleados":50
+  },
+  {
+    "sucursal_id":984,
+    "sucursal":"Sucursal 0984",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0984",
+    "empleados":51
+  },
+  {
+    "sucursal_id":985,
+    "sucursal":"Sucursal 0985",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0985",
+    "empleados":51
+  },
+  {
+    "sucursal_id":986,
+    "sucursal":"Sucursal 0986",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0986",
+    "empleados":19
+  },
+  {
+    "sucursal_id":987,
+    "sucursal":"Sucursal 0987",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0987",
+    "empleados":55
+  },
+  {
+    "sucursal_id":988,
+    "sucursal":"Sucursal 0988",
+    "ciudad":"García",
+    "gerente":"Gerente 0988",
+    "empleados":47
+  },
+  {
+    "sucursal_id":989,
+    "sucursal":"Sucursal 0989",
+    "ciudad":"Santa Catarina",
+    "gerente":"Gerente 0989",
+    "empleados":22
+  },
+  {
+    "sucursal_id":990,
+    "sucursal":"Sucursal 0990",
+    "ciudad":"García",
+    "gerente":"Gerente 0990",
+    "empleados":25
+  },
+  {
+    "sucursal_id":991,
+    "sucursal":"Sucursal 0991",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0991",
+    "empleados":14
+  },
+  {
+    "sucursal_id":992,
+    "sucursal":"Sucursal 0992",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0992",
+    "empleados":25
+  },
+  {
+    "sucursal_id":993,
+    "sucursal":"Sucursal 0993",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0993",
+    "empleados":30
+  },
+  {
+    "sucursal_id":994,
+    "sucursal":"Sucursal 0994",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0994",
+    "empleados":45
+  },
+  {
+    "sucursal_id":995,
+    "sucursal":"Sucursal 0995",
+    "ciudad":"Monterrey",
+    "gerente":"Gerente 0995",
+    "empleados":7
+  },
+  {
+    "sucursal_id":996,
+    "sucursal":"Sucursal 0996",
+    "ciudad":"García",
+    "gerente":"Gerente 0996",
+    "empleados":5
+  },
+  {
+    "sucursal_id":997,
+    "sucursal":"Sucursal 0997",
+    "ciudad":"Apodaca",
+    "gerente":"Gerente 0997",
+    "empleados":25
+  },
+  {
+    "sucursal_id":998,
+    "sucursal":"Sucursal 0998",
+    "ciudad":"García",
+    "gerente":"Gerente 0998",
+    "empleados":15
+  },
+  {
+    "sucursal_id":999,
+    "sucursal":"Sucursal 0999",
+    "ciudad":"Guadalupe",
+    "gerente":"Gerente 0999",
+    "empleados":20
+  },
+  {
+    "sucursal_id":1000,
+    "sucursal":"Sucursal 1000",
+    "ciudad":"San Nicolás",
+    "gerente":"Gerente 1000",
+    "empleados":39
+  }
+]
